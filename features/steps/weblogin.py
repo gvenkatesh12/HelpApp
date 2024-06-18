@@ -12,24 +12,24 @@ from Locators import *
 from log import *
 
 configurator = LogConfigurator()
-# cap = {
-#     "platformName": "Android",
-#     "platformVersion": "11",
-#     "deviceName": "sdk_gphone_x86",
-#     "app": r"C:\Users\Manik\Downloads\base (3).apk",
-#     "automationName": "UiAutomator2",
-#     "resetKeyboard": True
-#
-# }
 cap = {
     "platformName": "Android",
-    "platformVersion": "14",
-    "appium:automationName": "UiAutomator2",
-    "deviceName": "motorola edge 50 pro",
+    "platformVersion": "11",
+    "deviceName": "sdk_gphone_x86",
     "app": r"C:\Users\Manik\Downloads\base (3).apk",
     "automationName": "UiAutomator2",
     "resetKeyboard": True
+
 }
+# cap = {
+#     "platformName": "Android",
+#     "platformVersion": "14",
+#     "appium:automationName": "UiAutomator2",
+#     "deviceName": "motorola edge 50 pro",
+#     "app": r"C:\Users\Manik\Downloads\base (3).apk",
+#     "automationName": "UiAutomator2",
+#     "resetKeyboard": True
+# }
 
 @given(u'i launch the application')
 def step_impl(context):
