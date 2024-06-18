@@ -148,3 +148,49 @@ UnknownError: An unknown server-side error occurred while processing the command
     at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
     at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
     at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-18 12:47:24,183 - root - INFO - Application launched successfully!
+2024-06-18 12:47:26,239 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-18 12:47:26,239 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-18 12:49:50,376 - root - INFO - Application launched successfully!
+2024-06-18 12:49:52,453 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-18 12:49:52,453 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-18 12:53:05,464 - root - INFO - Application launched successfully!
+2024-06-18 12:53:07,988 - root - INFO - Clicked on Welcome to Order Management
+2024-06-18 12:53:07,991 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-18 12:53:08,242 - root - INFO - Clicked on username input field.
+2024-06-18 12:53:09,001 - root - INFO - Username entered: venkatesh
+2024-06-18 12:53:10,004 - root - INFO - Clicked on password input field.
+2024-06-18 12:53:10,571 - root - INFO - Password entered: Test@12345
+2024-06-18 12:53:11,382 - root - INFO - Clicked on Sign-in button
+2024-06-18 12:53:17,231 - root - INFO - Welcome to: ORDERS
+2024-06-18 12:53:17,995 - root - INFO - Logged out successfully!
+2024-06-18 12:55:20,929 - root - INFO - Application launched successfully!
+2024-06-18 12:55:23,434 - root - INFO - Clicked on Welcome to Order Management
+2024-06-18 12:55:23,437 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-18 12:55:23,751 - root - INFO - Clicked on username input field.
+2024-06-18 12:55:25,138 - root - INFO - Username entered: venkatesh
+2024-06-18 12:55:26,006 - root - INFO - Clicked on password input field.
+2024-06-18 12:55:26,548 - root - INFO - Password entered: Test@12345
+2024-06-18 12:55:27,295 - root - INFO - Clicked on Sign-in button
+2024-06-18 12:55:32,983 - root - INFO - Welcome to: ORDERS
+2024-06-18 12:55:33,615 - root - INFO - Logged out successfully!

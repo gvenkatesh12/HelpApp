@@ -262,3 +262,13 @@ NoSuchElementError: An element could not be located on the page using the given 
 2024-06-12 17:16:24,798 - root - INFO - Clicked on Sign-in button
 2024-06-12 17:16:29,619 - root - INFO - Welcome to: ORDERS
 2024-06-12 17:16:30,260 - root - INFO - Logged out successfully!
+2024-06-18 12:48:47,238 - root - INFO - Application launched successfully!
+2024-06-18 12:48:48,418 - root - INFO - Clicked on Welcome to Order Management
+2024-06-18 12:48:48,419 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-18 12:48:48,767 - root - INFO - Clicked on username input field.
+2024-06-18 12:48:49,853 - root - INFO - Username entered: venkatesh
+2024-06-18 12:48:50,774 - root - INFO - Clicked on password input field.
+2024-06-18 12:48:51,505 - root - INFO - Password entered: Test@12345
+2024-06-18 12:48:52,271 - root - INFO - Clicked on Sign-in button
+2024-06-18 12:48:58,199 - root - INFO - Welcome to: ORDERS
+2024-06-18 12:48:58,881 - root - INFO - Logged out successfully!

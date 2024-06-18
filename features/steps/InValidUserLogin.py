@@ -22,6 +22,7 @@ def step_impl(context):
         text1 = Error_text.text
         logging.info(f"showing the error message{text1}")
         logging.info("test case passed!!!")
+        time.sleep(2)
 
     except Exception as e:
 
