@@ -194,3 +194,13 @@ UnknownError: An unknown server-side error occurred while processing the command
 2024-06-18 12:55:27,295 - root - INFO - Clicked on Sign-in button
 2024-06-18 12:55:32,983 - root - INFO - Welcome to: ORDERS
 2024-06-18 12:55:33,615 - root - INFO - Logged out successfully!
+2024-06-18 13:06:35,840 - root - INFO - Application launched successfully!
+2024-06-18 13:06:38,356 - root - INFO - Clicked on Welcome to Order Management
+2024-06-18 13:06:38,357 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-18 13:06:38,543 - root - INFO - Clicked on username input field.
+2024-06-18 13:06:39,265 - root - INFO - Username entered: venkatesh
+2024-06-18 13:06:40,255 - root - INFO - Clicked on password input field.
+2024-06-18 13:06:40,849 - root - INFO - Password entered: Test@12345
+2024-06-18 13:06:41,613 - root - INFO - Clicked on Sign-in button
+2024-06-18 13:06:52,864 - root - INFO - Welcome to: ORDERS
+2024-06-18 13:06:54,317 - root - INFO - Logged out successfully!
