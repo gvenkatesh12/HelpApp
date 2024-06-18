@@ -130,3 +130,21 @@ UnknownError: An unknown server-side error occurred while processing the command
 2024-06-10 14:26:49,780 - root - INFO - Logged out successfully!
 2024-06-10 14:26:52,128 - root - INFO - Clicked on Welcome to Order Management
 2024-06-10 14:26:52,128 - root - INFO - Clicked on Welcome to Order Management
+2024-06-18 12:43:40,827 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Unable to find an active device or emulator with OS 14. The following are available: emulator-5554 (11)
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Unable to find an active device or emulator with OS 14. The following are available: emulator-5554 (11)
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-18 12:43:43,258 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-18 12:43:43,258 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)

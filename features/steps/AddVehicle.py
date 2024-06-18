@@ -11,29 +11,26 @@ from appium.options.common import AppiumOptions
 from Locators import *
 from log import *
 
-# Assuming LogConfigurator is defined here
-# log='weblogin.log'
-# # Configure logging
-# logging.basicConfig(filename=log, level=logging.INFO)
+
 configurator = LogConfigurator()
-# cap = {
-#     "platformName": "Android",
-#     "platformVersion": "11",
-#     "deviceName": "sdk_gphone_x86",
-#     "app": r"C:\Users\Manik\Downloads\base (3).apk",
-#     "automationName": "UiAutomator2",
-#     "resetKeyboard": True
-#
-# }
 cap = {
     "platformName": "Android",
-    "platformVersion": "14",
-    "appium:automationName": "UiAutomator2",
-    "deviceName": "motorola edge 50 pro",
+    "platformVersion": "11",
+    "deviceName": "sdk_gphone_x86",
     "app": r"C:\Users\Manik\Downloads\base (3).apk",
     "automationName": "UiAutomator2",
     "resetKeyboard": True
+
 }
+# cap = {
+#     "platformName": "Android",
+#     "platformVersion": "14",
+#     "appium:automationName": "UiAutomator2",
+#     "deviceName": "motorola edge 50 pro",
+#     "app": r"C:\Users\Manik\Downloads\base (3).apk",
+#     "automationName": "UiAutomator2",
+#     "resetKeyboard": True
+# }
 @given(u'Navigate to Vehicles tab')
 def step_impl(context):
     raise NotImplementedError(u'STEP: Given Navigate to Vehicles tab')
@@ -41,6 +38,7 @@ def step_impl(context):
 
 @when(u'click on add vehicle button')
 def step_impl(context):
+    #ADD VEHICLE
     raise NotImplementedError(u'STEP: When click on add vehicle button')
 
 
