@@ -11,10 +11,7 @@ from appium.options.common import AppiumOptions
 from Locators import *
 from log import *
 
-# Assuming LogConfigurator is defined here
-# log='weblogin.log'
-# # Configure logging
-# logging.basicConfig(filename=log, level=logging.INFO)
+
 configurator = LogConfigurator()
 # cap = {
 #     "platformName": "Android",
@@ -41,6 +38,7 @@ def step_impl(context):
 
 @when(u'click on add vehicle button')
 def step_impl(context):
+    #ADD VEHICLE
     raise NotImplementedError(u'STEP: When click on add vehicle button')
 
 
