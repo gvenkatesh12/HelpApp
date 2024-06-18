@@ -1,0 +1,264 @@
+2024-06-10 12:07:10,925 - root - INFO - Application opened successfully!
+2024-06-10 12:07:15,165 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 12:07:15,427 - root - INFO - clicked on user input field
+2024-06-10 12:07:15,427 - root - INFO - Username entered: <appium.webdriver.webelement.WebElement (session="a3ce9c79-3a71-43da-b513-c6a4c54f3214", element="40dceb1e-2445-4cb4-8645-e6464bdf5d08")>
+2024-06-10 12:07:16,745 - root - INFO - Entered username: venkatesh
+2024-06-10 12:07:18,724 - root - INFO - clicked on password field
+2024-06-10 12:07:18,724 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="a3ce9c79-3a71-43da-b513-c6a4c54f3214", element="c7c6391b-dd10-40ae-9a3b-1ce0fd0368b2")>
+2024-06-10 12:07:18,905 - root - INFO - Entered password: Test@12345
+2024-06-10 12:07:19,844 - root - INFO - Clicked on Sign-in button
+2024-06-10 12:07:28,103 - root - INFO - Welcome to: ORDERS
+2024-06-10 12:07:28,418 - root - INFO - Logged out successfully!
+2024-06-10 12:13:06,814 - root - INFO - Application opened successfully!
+2024-06-10 12:13:10,898 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 12:13:11,646 - root - INFO - clicked on user input field
+2024-06-10 12:13:11,646 - root - INFO - Username entered: <appium.webdriver.webelement.WebElement (session="9006ac1b-5b5c-45aa-adcf-03df09ad6c77", element="7b611bb4-1289-45dd-8501-5e2ed95d8440")>
+2024-06-10 12:13:12,532 - root - INFO - Entered username: venkatesh
+2024-06-10 12:13:14,525 - root - INFO - clicked on password field
+2024-06-10 12:13:14,525 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="9006ac1b-5b5c-45aa-adcf-03df09ad6c77", element="20fe0591-a50d-4d22-94c1-6c93e913e8c6")>
+2024-06-10 12:13:14,641 - root - INFO - Entered password: Test@12345
+2024-06-10 12:18:52,383 - root - INFO - Application opened successfully!
+2024-06-10 12:18:56,236 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 12:18:56,968 - root - INFO - clicked on user input field
+2024-06-10 12:18:56,970 - root - INFO - Username entered: <appium.webdriver.webelement.WebElement (session="1b1bd400-679b-4f10-9568-5ac240b9f675", element="e0b8fe82-3a8e-45cb-b3fd-1e928fcca316")>
+2024-06-10 12:18:57,813 - root - INFO - Entered username: venkatesh
+2024-06-10 12:18:59,717 - root - INFO - clicked on password field
+2024-06-10 12:18:59,717 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="1b1bd400-679b-4f10-9568-5ac240b9f675", element="4d5ebcec-4c77-441b-ba00-e4158b6b2cd5")>
+2024-06-10 12:18:59,804 - root - INFO - Entered password: Test@12345
+2024-06-10 14:05:25,084 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-10 14:05:25,086 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-10 14:05:25,089 - root - ERROR - Error while entering username and password: 'Context' object has no attribute 'driver'
+2024-06-10 14:07:28,918 - root - INFO - Application opened successfully!
+2024-06-10 14:07:33,447 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 14:07:33,802 - root - INFO - clicked on user input field
+2024-06-10 14:07:33,802 - root - INFO - Username entered: <appium.webdriver.webelement.WebElement (session="c2c9fb23-7172-491b-9018-4affe7954963", element="03122e3a-0b6f-4698-a3b2-910c0f0a14f8")>
+2024-06-10 14:07:35,119 - root - INFO - Entered username: venkatesh
+2024-06-10 14:07:36,500 - root - INFO - clicked on password field
+2024-06-10 14:07:36,500 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="c2c9fb23-7172-491b-9018-4affe7954963", element="0c99d186-8f86-4929-bded-25e40643c3f6")>
+2024-06-10 14:07:38,124 - root - INFO - Entered password: Test@12345
+2024-06-10 14:10:43,875 - root - INFO - Application opened successfully!
+2024-06-10 14:10:48,129 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 14:10:48,342 - root - INFO - clicked on user input field
+2024-06-10 14:10:48,342 - root - INFO - Username entered: <appium.webdriver.webelement.WebElement (session="72aad9ab-2da4-4a42-8d15-d4dd674c3735", element="bb13a7d9-9a96-4eb5-b74d-bd2d63b27fed")>
+2024-06-10 14:10:49,665 - root - INFO - Entered username: venkatesh
+2024-06-10 14:10:51,692 - root - INFO - clicked on password field
+2024-06-10 14:10:51,692 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="72aad9ab-2da4-4a42-8d15-d4dd674c3735", element="b9f76a31-ade7-4ee8-a9e8-a74fe0aa00ff")>
+2024-06-10 14:10:52,410 - root - INFO - Entered password: Test@12345
+2024-06-10 14:10:53,208 - root - INFO - Clicked on Sign-in button
+2024-06-10 14:11:02,199 - root - INFO - Welcome to: ORDERS
+2024-06-10 14:11:02,660 - root - INFO - Logged out successfully!
+2024-06-10 15:14:05,322 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 15:14:05,327 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-10 15:14:05,330 - root - ERROR - Error while entering username and password: 'Context' object has no attribute 'driver'
+2024-06-10 15:15:26,246 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 15:15:26,258 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-10 15:15:26,258 - root - ERROR - Error while entering username and password: 'Context' object has no attribute 'driver'
+2024-06-10 15:16:07,572 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 15:16:07,580 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-10 15:16:07,580 - root - ERROR - Error while entering username and password: 'Context' object has no attribute 'driver'
+2024-06-10 15:17:31,023 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 15:17:31,023 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-10 15:17:31,032 - root - ERROR - Error while entering username and password: 'Context' object has no attribute 'driver'
+2024-06-10 15:17:31,032 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-10 15:17:31,038 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-10 15:17:31,038 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-10 16:10:40,308 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 16:10:40,309 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-10 16:10:40,311 - root - ERROR - Error while entering username and password: 'Context' object has no attribute 'driver'
+2024-06-10 16:12:10,371 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 16:12:10,379 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-10 16:12:10,379 - root - ERROR - Error while entering username and password: 'Context' object has no attribute 'driver'
+2024-06-10 16:13:41,532 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 16:13:41,535 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-10 16:13:41,537 - root - ERROR - Error while entering username and password: 'Context' object has no attribute 'driver'
+2024-06-10 16:14:52,604 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 16:14:52,608 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-10 16:14:52,608 - root - ERROR - Error while entering username and password: 'Context' object has no attribute 'driver'
+2024-06-10 16:16:02,651 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 16:16:02,652 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-10 16:16:02,652 - root - ERROR - Error while entering username and password: 'Context' object has no attribute 'driver'
+2024-06-10 16:18:03,724 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 16:18:03,725 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-10 16:18:03,727 - root - ERROR - Error while entering username and password: 'Context' object has no attribute 'driver'
+2024-06-10 16:18:03,728 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-10 16:18:03,729 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-10 16:18:03,729 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-10 16:19:48,682 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell getprop ro.build.version.release' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 16:19:48,684 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-10 16:19:48,685 - root - ERROR - Error while entering username and password: 'Context' object has no attribute 'driver'
+2024-06-10 16:19:48,686 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-10 16:19:48,686 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-10 16:19:48,689 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-10 16:34:07,996 - root - INFO - Application opened successfully!
+2024-06-10 16:34:19,086 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 16:34:22,900 - root - INFO - clicked on user input field
+2024-06-10 16:34:22,901 - root - INFO - Username entered: USERNAME
+2024-06-10 16:34:24,783 - root - INFO - Entered username: venkatesh
+2024-06-10 16:34:25,336 - root - INFO - clicked on password field
+2024-06-10 16:34:25,338 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="73257759-3197-463e-82d6-e727be3acb97", element="87f14067-74a8-45f7-a41a-f5ba2d82f18a")>
+2024-06-10 16:34:25,813 - root - INFO - Entered password: Test@12345
+2024-06-10 16:34:26,559 - root - INFO - Clicked on Sign-in button
+2024-06-10 16:34:50,334 - root - INFO - Welcome to: ORDERS
+2024-06-10 16:34:51,959 - root - INFO - Logged out successfully!
+2024-06-10 16:47:44,799 - root - INFO - Application launched successfully!
+2024-06-10 16:47:50,366 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 16:47:50,573 - root - INFO - clicked on user input field
+2024-06-10 16:47:50,700 - root - INFO - Username entered: Venkatesh
+2024-06-10 16:47:51,278 - root - INFO - clicked on password field
+2024-06-10 16:47:52,284 - root - INFO - Password entered: Test@12345
+2024-06-10 16:52:06,611 - root - INFO - Application launched successfully!
+2024-06-10 16:52:12,894 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 16:52:13,059 - root - INFO - clicked on user input field
+2024-06-10 16:52:13,657 - root - INFO - Username entered: Venkatesh
+2024-06-10 16:52:13,779 - root - INFO - clicked on password field
+2024-06-10 16:52:14,602 - root - INFO - Password entered: Test@12345
+2024-06-10 17:00:03,744 - root - INFO - Application launched successfully!
+2024-06-10 17:00:11,058 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 17:00:11,272 - root - INFO - clicked on user input field
+2024-06-10 17:00:11,480 - root - INFO - Username entered: Venkatesh
+2024-06-10 17:00:12,093 - root - INFO - Entered username: venkatesh
+2024-06-10 17:00:14,377 - root - INFO - clicked on password field
+2024-06-10 17:00:14,518 - root - INFO - Password entered: Test@12345
+2024-06-10 17:02:41,572 - root - INFO - Application launched successfully!
+2024-06-10 17:02:48,047 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 17:02:48,314 - root - INFO - clicked on user input field
+2024-06-10 17:02:48,964 - root - INFO - Username entered: Venkatesh
+2024-06-10 17:02:49,791 - root - INFO - Entered username: venkatesh
+2024-06-10 17:02:51,363 - root - INFO - clicked on password field
+2024-06-10 17:02:52,408 - root - INFO - Password entered: Test@12345
+2024-06-10 17:04:23,168 - root - INFO - Application launched successfully!
+2024-06-10 17:04:29,160 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 17:04:29,396 - root - INFO - clicked on user input field
+2024-06-10 17:04:29,571 - root - INFO - Username entered: Venkatesh
+2024-06-10 17:04:30,177 - root - INFO - Entered username: venkatesh
+2024-06-10 17:04:31,681 - root - INFO - clicked on password field
+2024-06-10 17:04:32,988 - root - INFO - Password entered: Test@12345
+2024-06-10 17:04:34,472 - root - INFO - Clicked on username input field.
+2024-06-10 17:04:34,620 - root - INFO - Username entered: venkatesh
+2024-06-10 17:04:36,847 - root - INFO - Clicked on password input field.
+2024-06-10 17:04:37,461 - root - INFO - Password entered: Test@12345
+2024-06-10 17:04:38,147 - root - INFO - Clicked on Sign-in button
+2024-06-10 17:04:51,470 - root - INFO - Welcome to: ORDERS
+2024-06-10 17:04:52,165 - root - INFO - Logged out successfully!
+2024-06-10 17:06:42,084 - root - INFO - Application launched successfully!
+2024-06-10 17:06:47,820 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 17:06:48,007 - root - INFO - clicked on user input field
+2024-06-10 17:06:48,620 - root - INFO - Username entered: Venkatesh
+2024-06-10 17:06:48,798 - root - INFO - Entered username: venkatesh
+2024-06-10 17:06:51,303 - root - INFO - clicked on password field
+2024-06-10 17:06:51,472 - root - INFO - Password entered: Test@12345
+2024-06-10 17:06:52,222 - root - INFO - Clicked on username input field.
+2024-06-10 17:06:53,213 - root - INFO - Username entered: venkatesh
+2024-06-10 17:06:55,505 - root - INFO - Clicked on password input field.
+2024-06-10 17:06:56,121 - root - INFO - Password entered: Test@12345
+2024-06-10 17:06:56,834 - root - INFO - Clicked on Sign-in button
+2024-06-10 17:07:08,249 - root - INFO - Welcome to: ORDERS
+2024-06-10 17:07:08,857 - root - INFO - Logged out successfully!
+2024-06-12 17:07:52,207 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s ZD222KRB4K shell getprop ro.build.version.release' exited with code 1'; Stderr: 'adb.exe: device unauthorized.
+This adb server's $ADB_VENDOR_KEYS is not set
+Try 'adb kill-server' if that seems wrong.
+Otherwise check for a confirmation dialog on your device.'; Code: '1'
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s ZD222KRB4K shell getprop ro.build.version.release' exited with code 1'; Stderr: 'adb.exe: device unauthorized.
+This adb server's $ADB_VENDOR_KEYS is not set
+Try 'adb kill-server' if that seems wrong.
+Otherwise check for a confirmation dialog on your device.'; Code: '1'
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-12 17:07:52,258 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-12 17:07:52,261 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 17:07:52,263 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-12 17:07:52,265 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-12 17:07:52,266 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-12 17:07:52,268 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-12 17:13:28,502 - root - INFO - Application launched successfully!
+2024-06-12 17:13:48,690 - root - ERROR - Error while navigating to the main page: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 17:13:48,692 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 17:14:08,995 - root - ERROR - Error to click entering username and password: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 17:14:29,431 - root - ERROR - Error clicking Sign-in button: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 17:14:49,907 - root - ERROR - Error navigating to home screen: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 17:15:10,441 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 17:16:18,073 - root - INFO - Application launched successfully!
+2024-06-12 17:16:20,563 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 17:16:20,563 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 17:16:20,739 - root - INFO - Clicked on username input field.
+2024-06-12 17:16:22,081 - root - INFO - Username entered: venkatesh
+2024-06-12 17:16:23,504 - root - INFO - Clicked on password input field.
+2024-06-12 17:16:24,066 - root - INFO - Password entered: Test@12345
+2024-06-12 17:16:24,798 - root - INFO - Clicked on Sign-in button
+2024-06-12 17:16:29,619 - root - INFO - Welcome to: ORDERS
+2024-06-12 17:16:30,260 - root - INFO - Logged out successfully!

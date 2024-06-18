@@ -1,0 +1,1982 @@
+2024-06-11 15:05:03,594 - root - INFO - Application launched successfully!
+2024-06-11 15:05:11,486 - root - INFO - Clicked on Welcome to Order Management
+2024-06-11 15:05:11,488 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-11 15:05:12,058 - root - INFO - Clicked on username input field.
+2024-06-11 15:05:13,220 - root - INFO - Username entered: <username>
+2024-06-11 15:05:14,747 - root - INFO - Clicked on password input field.
+2024-06-11 15:05:15,351 - root - INFO - Password entered: <password>
+2024-06-11 15:05:16,103 - root - INFO - Clicked on Sign-in button
+2024-06-11 15:05:36,804 - root - ERROR - Error navigating to home screen: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-11 15:35:27,879 - root - INFO - Application launched successfully!
+2024-06-11 15:35:36,077 - root - INFO - Clicked on Welcome to Order Management
+2024-06-11 15:35:36,079 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-11 15:35:36,673 - root - INFO - Clicked on username input field.
+2024-06-11 15:35:37,641 - root - INFO - Username entered: venkatesh
+2024-06-11 15:35:39,299 - root - INFO - Clicked on password input field.
+2024-06-11 15:35:39,907 - root - INFO - Password entered: Test@12345
+2024-06-11 15:35:40,612 - root - INFO - Clicked on Sign-in button
+2024-06-11 15:35:57,633 - root - INFO - Welcome to: ORDERS
+2024-06-11 15:35:58,335 - root - INFO - Clicked on Profile button
+2024-06-11 17:25:10,793 - root - INFO - Application launched successfully!
+2024-06-11 17:25:17,765 - root - INFO - Clicked on Welcome to Order Management
+2024-06-11 17:25:17,768 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-11 17:25:19,467 - root - INFO - Clicked on username input field.
+2024-06-11 17:25:21,117 - root - INFO - Username entered: venkatesh
+2024-06-11 17:25:22,586 - root - INFO - Clicked on password input field.
+2024-06-11 17:25:23,196 - root - INFO - Password entered: Test@12345
+2024-06-11 17:25:23,857 - root - INFO - Clicked on Sign-in button
+2024-06-11 17:25:41,535 - root - INFO - Welcome to: ORDERS
+2024-06-11 17:25:42,172 - root - INFO - Clicked on Profile button
+2024-06-11 20:11:21,286 - root - INFO - Application launched successfully!
+2024-06-11 20:11:40,144 - root - INFO - Clicked on Welcome to Order Management
+2024-06-11 20:11:40,147 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-11 20:11:44,534 - root - INFO - Clicked on username input field.
+2024-06-11 20:11:45,699 - root - INFO - Username entered: venkatesh
+2024-06-11 20:11:47,581 - root - INFO - Clicked on password input field.
+2024-06-11 20:11:51,430 - root - INFO - Password entered: Test@12345
+2024-06-11 20:11:53,611 - root - INFO - Clicked on Sign-in button
+2024-06-11 20:12:15,987 - root - ERROR - Error navigating to home screen: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-11 20:12:36,086 - root - ERROR - Error clicking Profile button: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-11 20:12:36,105 - root - ERROR - Error chrome browser is not opening
+2024-06-12 09:00:11,811 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: The instrumentation process cannot be initialized within 30000ms timeout. Make sure the application under test does not crash and investigate the logcat output. You could also try to increase the value of 'uiautomator2ServerLaunchTimeout' capability. 
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The instrumentation process cannot be initialized within 30000ms timeout. Make sure the application under test does not crash and investigate the logcat output. You could also try to increase the value of 'uiautomator2ServerLaunchTimeout' capability. 
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-12 09:00:11,814 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-12 09:00:11,816 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 09:00:11,818 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-12 09:00:11,821 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-12 09:00:11,823 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-12 09:00:11,825 - root - ERROR - Error clicking Profile button: 'Context' object has no attribute 'driver'
+2024-06-12 09:00:11,827 - root - ERROR - Error occurred while getting the company details: 'Context' object has no attribute 'driver'
+2024-06-12 09:00:11,829 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-12 09:03:13,401 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 09:03:13,406 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-12 09:03:13,409 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 09:03:13,415 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-12 09:03:13,419 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-12 09:03:13,424 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-12 09:03:13,426 - root - ERROR - Error clicking Profile button: 'Context' object has no attribute 'driver'
+2024-06-12 09:03:13,429 - root - ERROR - Error occurred while getting the company details: 'Context' object has no attribute 'driver'
+2024-06-12 09:03:13,433 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,571 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 09:04:13,571 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 09:04:13,576 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,576 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,583 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 09:04:13,583 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 09:04:13,586 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,586 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,588 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,588 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,591 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,591 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,595 - root - ERROR - Error clicking Profile button: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,595 - root - ERROR - Error clicking Profile button: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,597 - root - ERROR - Error occurred while getting the company details: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,597 - root - ERROR - Error occurred while getting the company details: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,600 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-12 09:04:13,600 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-12 09:08:54,594 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 09:08:54,599 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-12 09:08:54,601 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 09:08:54,603 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-12 09:08:54,606 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-12 09:08:54,609 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-12 09:08:54,613 - root - ERROR - Error clicking Profile button: 'Context' object has no attribute 'driver'
+2024-06-12 09:08:54,615 - root - ERROR - Error occurred while getting the company details: 'Context' object has no attribute 'driver'
+2024-06-12 09:08:54,618 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,870 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 09:09:40,870 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 09:09:40,874 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,874 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,877 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 09:09:40,877 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 09:09:40,878 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,878 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,883 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,883 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,886 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,886 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,890 - root - ERROR - Error clicking Profile button: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,890 - root - ERROR - Error clicking Profile button: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,894 - root - ERROR - Error occurred while getting the company details: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,894 - root - ERROR - Error occurred while getting the company details: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,899 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-12 09:09:40,899 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-12 11:56:31,417 - root - INFO - Application launched successfully!
+2024-06-12 11:56:37,294 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 11:56:37,296 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 11:56:37,644 - root - INFO - Clicked on username input field.
+2024-06-12 11:56:39,066 - root - INFO - Username entered: venkatesh
+2024-06-12 11:56:40,476 - root - INFO - Clicked on password input field.
+2024-06-12 11:56:40,649 - root - INFO - Password entered: Test@12345
+2024-06-12 11:56:41,325 - root - INFO - Clicked on Sign-in button
+2024-06-12 11:56:51,849 - root - INFO - Welcome to: ORDERS
+2024-06-12 11:57:18,211 - root - INFO - Application launched successfully!
+2024-06-12 11:57:18,211 - root - INFO - Application launched successfully!
+2024-06-12 11:57:24,378 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 11:57:24,378 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 11:57:24,379 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 11:57:24,379 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 11:57:24,659 - root - INFO - Clicked on username input field.
+2024-06-12 11:57:24,659 - root - INFO - Clicked on username input field.
+2024-06-12 11:57:25,421 - root - INFO - Username entered: rupendhra
+2024-06-12 11:57:25,421 - root - INFO - Username entered: rupendhra
+2024-06-12 11:57:26,625 - root - INFO - Clicked on password input field.
+2024-06-12 11:57:26,625 - root - INFO - Clicked on password input field.
+2024-06-12 11:57:27,673 - root - INFO - Password entered: Test@1234
+2024-06-12 11:57:27,673 - root - INFO - Password entered: Test@1234
+2024-06-12 11:57:28,469 - root - INFO - Clicked on Sign-in button
+2024-06-12 11:57:28,469 - root - INFO - Clicked on Sign-in button
+2024-06-12 11:57:49,171 - root - ERROR - Error navigating to home screen: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 11:57:49,171 - root - ERROR - Error navigating to home screen: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 14:09:46,271 - root - INFO - Application launched successfully!
+2024-06-12 14:09:54,755 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 14:09:54,758 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 14:09:55,166 - root - INFO - Clicked on username input field.
+2024-06-12 14:09:56,761 - root - INFO - Username entered: venkatesh
+2024-06-12 14:09:58,461 - root - INFO - Clicked on password input field.
+2024-06-12 14:09:59,071 - root - INFO - Password entered: Test@12345
+2024-06-12 14:09:59,780 - root - INFO - Clicked on Sign-in button
+2024-06-12 14:10:17,801 - root - INFO - Welcome to: ORDERS
+2024-06-12 14:10:17,803 - root - ERROR - Error while clicking profile button: module 'Locators' has no attribute 'profile_Button_xpath'
+2024-06-12 14:10:51,814 - root - INFO - Application launched successfully!
+2024-06-12 14:10:51,814 - root - INFO - Application launched successfully!
+2024-06-12 14:10:58,835 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 14:10:58,835 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 14:10:58,837 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 14:10:58,837 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 14:10:59,212 - root - INFO - Clicked on username input field.
+2024-06-12 14:10:59,212 - root - INFO - Clicked on username input field.
+2024-06-12 14:11:00,762 - root - INFO - Username entered: rupendhra
+2024-06-12 14:11:00,762 - root - INFO - Username entered: rupendhra
+2024-06-12 14:11:02,211 - root - INFO - Clicked on password input field.
+2024-06-12 14:11:02,211 - root - INFO - Clicked on password input field.
+2024-06-12 14:11:02,795 - root - INFO - Password entered: Test@1234
+2024-06-12 14:11:02,795 - root - INFO - Password entered: Test@1234
+2024-06-12 14:11:03,448 - root - INFO - Clicked on Sign-in button
+2024-06-12 14:11:03,448 - root - INFO - Clicked on Sign-in button
+2024-06-12 14:11:17,905 - root - ERROR - Error navigating to home screen: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 14:11:17,905 - root - ERROR - Error navigating to home screen: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 14:11:17,907 - root - ERROR - Error while clicking profile button: module 'Locators' has no attribute 'profile_Button_xpath'
+2024-06-12 14:11:17,907 - root - ERROR - Error while clicking profile button: module 'Locators' has no attribute 'profile_Button_xpath'
+2024-06-12 14:14:06,538 - root - INFO - Application launched successfully!
+2024-06-12 14:14:13,451 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 14:14:13,454 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 14:14:13,824 - root - INFO - Clicked on username input field.
+2024-06-12 14:14:15,340 - root - INFO - Username entered: venkatesh
+2024-06-12 14:14:16,643 - root - INFO - Clicked on password input field.
+2024-06-12 14:14:17,260 - root - INFO - Password entered: Test@12345
+2024-06-12 14:14:17,921 - root - INFO - Clicked on Sign-in button
+2024-06-12 14:14:34,450 - root - INFO - Welcome to: ORDERS
+2024-06-12 14:14:35,150 - root - INFO - Clicked profile button successfully!
+2024-06-12 14:14:55,559 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 14:14:56,130 - root - INFO - Logged out successfully!
+2024-06-12 14:15:26,916 - root - INFO - Application launched successfully!
+2024-06-12 14:15:26,916 - root - INFO - Application launched successfully!
+2024-06-12 14:15:33,319 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 14:15:33,319 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 14:15:33,322 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 14:15:33,322 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 14:15:33,656 - root - INFO - Clicked on username input field.
+2024-06-12 14:15:33,656 - root - INFO - Clicked on username input field.
+2024-06-12 14:15:35,111 - root - INFO - Username entered: rupendhra
+2024-06-12 14:15:35,111 - root - INFO - Username entered: rupendhra
+2024-06-12 14:15:36,261 - root - INFO - Clicked on password input field.
+2024-06-12 14:15:36,261 - root - INFO - Clicked on password input field.
+2024-06-12 14:15:36,812 - root - INFO - Password entered: Test@1234
+2024-06-12 14:15:36,812 - root - INFO - Password entered: Test@1234
+2024-06-12 14:15:37,418 - root - INFO - Clicked on Sign-in button
+2024-06-12 14:15:37,418 - root - INFO - Clicked on Sign-in button
+2024-06-12 14:15:56,462 - root - ERROR - Error navigating to home screen: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 14:15:56,462 - root - ERROR - Error navigating to home screen: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 14:15:56,578 - root - ERROR - Error while clicking profile button: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 14:15:56,578 - root - ERROR - Error while clicking profile button: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 14:15:56,766 - root - ERROR - An error occurred: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 14:15:56,766 - root - ERROR - An error occurred: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 14:15:56,848 - root - ERROR - Error while logging out: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 14:15:56,848 - root - ERROR - Error while logging out: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 14:23:08,434 - root - INFO - Application launched successfully!
+2024-06-12 14:23:14,722 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 14:23:14,724 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 14:23:14,951 - root - INFO - Clicked on username input field.
+2024-06-12 14:23:15,152 - root - INFO - Username entered: venkatesh
+2024-06-12 14:23:16,769 - root - INFO - Clicked on password input field.
+2024-06-12 14:23:17,850 - root - INFO - Password entered: Test@12345
+2024-06-12 14:23:18,486 - root - INFO - Clicked on Sign-in button
+2024-06-12 14:23:27,374 - root - INFO - Welcome to: ORDERS
+2024-06-12 14:23:28,657 - root - INFO - Clicked profile button successfully!
+2024-06-12 14:23:31,440 - root - ERROR - SQLite error occurred: near "On": syntax error
+2024-06-12 14:23:51,526 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 14:24:15,154 - root - INFO - Application launched successfully!
+2024-06-12 14:24:15,154 - root - INFO - Application launched successfully!
+2024-06-12 14:24:20,236 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 14:24:20,236 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 14:24:20,237 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 14:24:20,237 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 14:24:20,369 - root - INFO - Clicked on username input field.
+2024-06-12 14:24:20,369 - root - INFO - Clicked on username input field.
+2024-06-12 14:24:20,494 - root - INFO - Username entered: rupendhra
+2024-06-12 14:24:20,494 - root - INFO - Username entered: rupendhra
+2024-06-12 14:24:21,689 - root - INFO - Clicked on password input field.
+2024-06-12 14:24:21,689 - root - INFO - Clicked on password input field.
+2024-06-12 14:24:22,253 - root - INFO - Password entered: Test@1234
+2024-06-12 14:24:22,253 - root - INFO - Password entered: Test@1234
+2024-06-12 14:24:22,852 - root - INFO - Clicked on Sign-in button
+2024-06-12 14:24:22,852 - root - INFO - Clicked on Sign-in button
+2024-06-12 14:24:42,995 - root - ERROR - Error navigating to home screen: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 14:24:42,995 - root - ERROR - Error navigating to home screen: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 14:25:03,003 - root - ERROR - Error while clicking profile button: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 14:25:03,003 - root - ERROR - Error while clicking profile button: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 14:25:23,480 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 14:25:23,480 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 14:25:43,811 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 14:25:43,811 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 15:30:38,644 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Unable to find an active device or emulator with OS 11. The following are available: emulator-5556 (14)
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Unable to find an active device or emulator with OS 11. The following are available: emulator-5556 (14)
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-12 15:30:38,644 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-12 15:30:38,647 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 15:30:38,647 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-12 15:30:38,649 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-12 15:30:38,651 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-12 15:30:38,652 - root - ERROR - Error while clicking profile button: 'Context' object has no attribute 'driver'
+2024-06-12 15:30:38,685 - root - ERROR - An error occurred: 'function' object has no attribute 'keys'
+2024-06-12 15:30:38,685 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-12 15:32:40,865 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Failed to launch Appium Settings app: Condition unmet after 5024 ms. Timing out.
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Failed to launch Appium Settings app: Condition unmet after 5024 ms. Timing out.
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-12 15:32:40,867 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-12 15:32:40,869 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 15:32:40,870 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-12 15:32:40,873 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-12 15:32:40,874 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-12 15:32:40,875 - root - ERROR - Error while clicking profile button: 'Context' object has no attribute 'driver'
+2024-06-12 15:32:40,879 - root - ERROR - An error occurred: 'function' object has no attribute 'keys'
+2024-06-12 15:32:40,880 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-12 15:33:51,740 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:261:13)
+2024-06-12 15:33:51,743 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-12 15:33:51,745 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 15:33:51,747 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-12 15:33:51,748 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-12 15:33:51,752 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-12 15:33:51,754 - root - ERROR - Error while clicking profile button: 'Context' object has no attribute 'driver'
+2024-06-12 15:33:51,759 - root - ERROR - An error occurred: 'function' object has no attribute 'keys'
+2024-06-12 15:33:51,760 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-12 15:34:59,426 - root - INFO - Application launched successfully!
+2024-06-12 15:35:04,003 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 15:35:04,005 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 15:35:05,426 - root - INFO - Clicked on username input field.
+2024-06-12 15:35:06,769 - root - INFO - Username entered: venkatesh
+2024-06-12 15:35:07,998 - root - INFO - Clicked on password input field.
+2024-06-12 15:35:08,571 - root - INFO - Password entered: Test@12345
+2024-06-12 15:35:09,185 - root - INFO - Clicked on Sign-in button
+2024-06-12 15:35:29,896 - root - ERROR - Error navigating to home screen: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 15:35:50,012 - root - ERROR - Error while clicking profile button: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 15:35:50,015 - root - ERROR - An error occurred: 'function' object has no attribute 'keys'
+2024-06-12 15:36:10,063 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 15:39:55,599 - root - INFO - Application launched successfully!
+2024-06-12 15:40:01,687 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 15:40:01,689 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 15:40:01,893 - root - INFO - Clicked on username input field.
+2024-06-12 15:40:03,243 - root - INFO - Username entered: venkatesh
+2024-06-12 15:40:04,339 - root - INFO - Clicked on password input field.
+2024-06-12 15:40:05,374 - root - INFO - Password entered: Test@12345
+2024-06-12 15:40:05,990 - root - INFO - Clicked on Sign-in button
+2024-06-12 15:40:26,572 - root - ERROR - Error navigating to home screen: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 15:40:47,112 - root - ERROR - Error while clicking profile button: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 15:40:47,116 - root - ERROR - An error occurred: 'function' object has no attribute 'keys'
+2024-06-12 15:41:07,158 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 17:05:09,316 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s ZD222KRB4K shell getprop ro.build.version.release' exited with code 1'; Stderr: 'adb.exe: device unauthorized.
+
+This adb server's $ADB_VENDOR_KEYS is not set
+
+Try 'adb kill-server' if that seems wrong.
+
+Otherwise check for a confirmation dialog on your device.'; Code: '1'
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device platform version. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\Manik\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s ZD222KRB4K shell getprop ro.build.version.release' exited with code 1'; Stderr: 'adb.exe: device unauthorized.
+
+This adb server's $ADB_VENDOR_KEYS is not set
+
+Try 'adb kill-server' if that seems wrong.
+
+Otherwise check for a confirmation dialog on your device.'; Code: '1'
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-12 17:05:09,318 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-12 17:05:09,320 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 17:05:09,322 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-12 17:05:09,323 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-12 17:05:09,325 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-12 17:05:09,331 - root - ERROR - Error while clicking profile button: 'Context' object has no attribute 'driver'
+2024-06-12 17:05:09,340 - root - ERROR - An error occurred: 'function' object has no attribute 'keys'
+2024-06-12 17:05:09,344 - root - ERROR - Error while logging out: 'Context' object has no attribute 'driver'
+2024-06-12 17:16:53,214 - root - INFO - Application launched successfully!
+2024-06-12 17:16:55,555 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 17:16:55,555 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 17:16:55,733 - root - INFO - Clicked on username input field.
+2024-06-12 17:16:56,440 - root - INFO - Username entered: venkatesh
+2024-06-12 17:16:57,291 - root - INFO - Clicked on password input field.
+2024-06-12 17:16:57,860 - root - INFO - Password entered: Test@12345
+2024-06-12 17:16:58,572 - root - INFO - Clicked on Sign-in button
+2024-06-12 17:17:03,308 - root - INFO - Welcome to: ORDERS
+2024-06-12 17:17:03,894 - root - INFO - Clicked profile button successfully!
+2024-06-12 17:17:03,897 - root - ERROR - An error occurred: 'function' object has no attribute 'keys'
+2024-06-12 17:17:24,543 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 17:27:26,751 - root - INFO - Application launched successfully!
+2024-06-12 17:27:29,117 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 17:27:29,120 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 17:27:29,349 - root - INFO - Clicked on username input field.
+2024-06-12 17:27:31,099 - root - INFO - Username entered: venkatesh
+2024-06-12 17:27:31,886 - root - INFO - Clicked on password input field.
+2024-06-12 17:27:32,932 - root - INFO - Password entered: Test@12345
+2024-06-12 17:27:33,606 - root - INFO - Clicked on Sign-in button
+2024-06-12 17:27:38,766 - root - INFO - Welcome to: ORDERS
+2024-06-12 17:27:39,413 - root - INFO - Clicked profile button successfully!
+2024-06-12 17:27:39,531 - root - ERROR - An error occurred: 'function' object has no attribute 'keys'
+2024-06-12 17:27:59,846 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 17:49:10,270 - root - INFO - Application launched successfully!
+2024-06-12 17:49:12,754 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 17:49:12,756 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 17:49:12,938 - root - INFO - Clicked on username input field.
+2024-06-12 17:49:13,673 - root - INFO - Username entered: venkatesh
+2024-06-12 17:49:14,479 - root - INFO - Clicked on password input field.
+2024-06-12 17:49:15,015 - root - INFO - Password entered: Test@12345
+2024-06-12 17:49:15,723 - root - INFO - Clicked on Sign-in button
+2024-06-12 17:49:20,367 - root - INFO - Welcome to: ORDERS
+2024-06-12 17:49:20,972 - root - INFO - Clicked profile button successfully!
+2024-06-12 17:49:20,973 - root - ERROR - An error occurred: 'Context' object has no attribute 'details'
+2024-06-12 17:53:46,001 - root - INFO - Application launched successfully!
+2024-06-12 17:53:48,411 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 17:53:48,413 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 17:53:48,657 - root - INFO - Clicked on username input field.
+2024-06-12 17:53:49,957 - root - INFO - Username entered: venkatesh
+2024-06-12 17:53:50,895 - root - INFO - Clicked on password input field.
+2024-06-12 17:53:51,469 - root - INFO - Password entered: Test@12345
+2024-06-12 17:53:52,253 - root - INFO - Clicked on Sign-in button
+2024-06-12 17:53:57,948 - root - INFO - Welcome to: ORDERS
+2024-06-12 17:53:58,569 - root - INFO - Clicked profile button successfully!
+2024-06-12 17:54:00,239 - root - INFO - Company: VENKATESH
+2024-06-12 17:54:00,240 - root - ERROR - An error occurred: type object 'Locators' has no attribute 'Name_xpath'
+2024-06-12 17:57:14,954 - root - INFO - Application launched successfully!
+2024-06-12 17:57:17,402 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 17:57:17,403 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 17:57:17,639 - root - INFO - Clicked on username input field.
+2024-06-12 17:57:18,345 - root - INFO - Username entered: venkatesh
+2024-06-12 17:57:19,240 - root - INFO - Clicked on password input field.
+2024-06-12 17:57:19,793 - root - INFO - Password entered: Test@12345
+2024-06-12 17:57:20,512 - root - INFO - Clicked on Sign-in button
+2024-06-12 17:57:25,232 - root - INFO - Welcome to: ORDERS
+2024-06-12 17:57:25,890 - root - INFO - Clicked profile button successfully!
+2024-06-12 17:57:27,939 - root - INFO - Company: VENKATESH
+2024-06-12 17:57:28,284 - root - INFO - Name: VENKATESH
+2024-06-12 17:57:28,596 - root - INFO - Role: Partner
+2024-06-12 17:57:28,901 - root - INFO - Status: ACTIVE
+2024-06-12 17:57:29,140 - root - INFO - Email: VENKATESH.GARLAPATI@SERVCRUST.COM
+2024-06-12 17:57:29,408 - root - INFO - Mobile: +917995758674
+2024-06-12 17:57:29,667 - root - INFO - Notifications: ENABLED
+2024-06-12 17:57:29,945 - root - INFO - Created On: 05/03/2024
+2024-06-12 17:57:29,946 - root - ERROR - SQLite error occurred: no such table: profile_table
+2024-06-12 17:57:50,206 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-12 18:00:02,881 - root - INFO - Application launched successfully!
+2024-06-12 18:00:04,946 - root - INFO - Clicked on Welcome to Order Management
+2024-06-12 18:00:04,950 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-12 18:00:05,209 - root - INFO - Clicked on username input field.
+2024-06-12 18:00:07,022 - root - INFO - Username entered: venkatesh
+2024-06-12 18:00:07,999 - root - INFO - Clicked on password input field.
+2024-06-12 18:00:08,557 - root - INFO - Password entered: Test@12345
+2024-06-12 18:00:09,356 - root - INFO - Clicked on Sign-in button
+2024-06-12 18:00:14,471 - root - INFO - Welcome to: ORDERS
+2024-06-12 18:00:15,106 - root - INFO - Clicked profile button successfully!
+2024-06-12 18:00:16,493 - root - INFO - Company: VENKATESH
+2024-06-12 18:00:17,506 - root - INFO - Name: VENKATESH
+2024-06-12 18:00:17,788 - root - INFO - Role: Partner
+2024-06-12 18:00:18,079 - root - INFO - Status: ACTIVE
+2024-06-12 18:00:18,399 - root - INFO - Email: VENKATESH.GARLAPATI@SERVCRUST.COM
+2024-06-12 18:00:18,700 - root - INFO - Mobile: +917995758674
+2024-06-12 18:00:19,027 - root - INFO - Notifications: ENABLED
+2024-06-12 18:00:19,331 - root - INFO - Created On: 05/03/2024
+2024-06-12 18:00:19,333 - root - ERROR - SQLite error occurred: no such table: profile_table
+2024-06-12 18:00:40,092 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-13 09:55:49,993 - root - INFO - Application launched successfully!
+2024-06-13 09:55:52,545 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 09:55:52,545 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 09:55:52,780 - root - INFO - Clicked on username input field.
+2024-06-13 09:55:54,104 - root - INFO - Username entered: venkatesh
+2024-06-13 09:55:55,335 - root - INFO - Clicked on password input field.
+2024-06-13 09:55:56,403 - root - INFO - Password entered: Test@12345
+2024-06-13 09:55:57,181 - root - INFO - Clicked on Sign-in button
+2024-06-13 09:56:02,284 - root - INFO - Welcome to: ORDERS
+2024-06-13 09:56:03,861 - root - INFO - Clicked profile button successfully!
+2024-06-13 09:56:06,058 - root - INFO - Company: VENKATESH
+2024-06-13 09:56:06,497 - root - INFO - Name: VENKATESH
+2024-06-13 09:56:06,860 - root - INFO - Role: Partner
+2024-06-13 09:56:07,220 - root - INFO - Status: ACTIVE
+2024-06-13 09:56:07,539 - root - INFO - Email: VENKATESH.GARLAPATI@SERVCRUST.COM
+2024-06-13 09:56:07,858 - root - INFO - Mobile: +917995758674
+2024-06-13 09:56:08,199 - root - INFO - Notifications: ENABLED
+2024-06-13 09:56:08,532 - root - INFO - Created On: 05/03/2024
+2024-06-13 11:21:17,242 - root - INFO - Application launched successfully!
+2024-06-13 11:21:19,815 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 11:21:19,815 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 11:21:20,132 - root - INFO - Clicked on username input field.
+2024-06-13 11:21:21,519 - root - INFO - Username entered: venkatesh
+2024-06-13 11:21:22,805 - root - INFO - Clicked on password input field.
+2024-06-13 11:21:23,388 - root - INFO - Password entered: Test@12345
+2024-06-13 11:21:24,474 - root - INFO - Clicked on Sign-in button
+2024-06-13 11:21:29,842 - root - INFO - Welcome to: ORDERS
+2024-06-13 11:21:30,478 - root - INFO - Clicked profile button successfully!
+2024-06-13 11:21:32,037 - root - INFO - Company: VENKATESH
+2024-06-13 11:21:33,010 - root - INFO - Name: VENKATESH
+2024-06-13 11:21:33,354 - root - INFO - Role: Partner
+2024-06-13 11:21:33,615 - root - INFO - Status: ACTIVE
+2024-06-13 11:21:33,844 - root - INFO - Email: VENKATESH.GARLAPATI@SERVCRUST.COM
+2024-06-13 11:21:34,048 - root - INFO - Mobile: +917995758674
+2024-06-13 11:21:35,282 - root - INFO - Notifications: ENABLED
+2024-06-13 11:21:35,573 - root - INFO - Created On: 05/03/2024
+2024-06-13 11:21:35,687 - root - ERROR - SQLite error occurred: near "On": syntax error
+2024-06-13 11:21:55,825 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-13 11:28:36,994 - root - INFO - Application launched successfully!
+2024-06-13 11:28:40,073 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 11:28:40,075 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 11:28:40,288 - root - INFO - Clicked on username input field.
+2024-06-13 11:28:41,600 - root - INFO - Username entered: venkatesh
+2024-06-13 11:28:42,437 - root - INFO - Clicked on password input field.
+2024-06-13 11:28:43,025 - root - INFO - Password entered: Test@12345
+2024-06-13 11:28:43,755 - root - INFO - Clicked on Sign-in button
+2024-06-13 11:28:49,094 - root - INFO - Welcome to: ORDERS
+2024-06-13 11:28:49,476 - root - INFO - Clicked profile button successfully!
+2024-06-13 11:28:51,648 - root - INFO - Company: VENKATESH
+2024-06-13 11:28:51,954 - root - INFO - Name: VENKATESH
+2024-06-13 11:28:52,271 - root - INFO - Role: Partner
+2024-06-13 11:28:52,565 - root - INFO - Status: ACTIVE
+2024-06-13 11:28:52,884 - root - INFO - Email: VENKATESH.GARLAPATI@SERVCRUST.COM
+2024-06-13 11:28:53,080 - root - INFO - Mobile: +917995758674
+2024-06-13 11:28:53,373 - root - INFO - Notifications: ENABLED
+2024-06-13 11:28:53,649 - root - INFO - Created On: 05/03/2024
+2024-06-13 11:28:53,649 - root - ERROR - SQLite error occurred: 1 values for 8 columns
+2024-06-13 11:29:14,151 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-13 11:45:23,634 - root - INFO - Application launched successfully!
+2024-06-13 11:45:26,490 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 11:45:26,492 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 11:45:26,682 - root - INFO - Clicked on username input field.
+2024-06-13 11:45:28,014 - root - INFO - Username entered: venkatesh
+2024-06-13 11:45:29,122 - root - INFO - Clicked on password input field.
+2024-06-13 11:45:29,689 - root - INFO - Password entered: Test@12345
+2024-06-13 11:45:30,400 - root - INFO - Clicked on Sign-in button
+2024-06-13 11:45:37,563 - root - INFO - Welcome to: ORDERS
+2024-06-13 11:45:38,216 - root - INFO - Clicked profile button successfully!
+2024-06-13 11:45:39,616 - root - INFO - Company: VENKATESH
+2024-06-13 11:45:39,832 - root - INFO - Name: VENKATESH
+2024-06-13 11:45:40,118 - root - INFO - Role: Partner
+2024-06-13 11:45:40,418 - root - INFO - Status: 
+2024-06-13 11:45:40,665 - root - INFO - Email: VENKATESH.GARLAPATI@SERVCRUST.COM
+2024-06-13 11:45:40,922 - root - INFO - Mobile: +917995758674
+2024-06-13 11:45:41,892 - root - INFO - Notifications: ENABLED
+2024-06-13 11:45:42,101 - root - INFO - Created On: 05/03/2024
+2024-06-13 11:45:42,312 - root - INFO - Company details stored in SQLite database successfully.
+2024-06-13 11:46:02,993 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-13 11:57:33,671 - root - INFO - Application launched successfully!
+2024-06-13 11:57:36,123 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 11:57:36,125 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 11:57:36,363 - root - INFO - Clicked on username input field.
+2024-06-13 11:57:37,647 - root - INFO - Username entered: venkatesh
+2024-06-13 11:57:38,499 - root - INFO - Clicked on password input field.
+2024-06-13 11:57:39,062 - root - INFO - Password entered: Test@12345
+2024-06-13 11:57:39,759 - root - INFO - Clicked on Sign-in button
+2024-06-13 11:57:44,115 - root - INFO - Welcome to: ORDERS
+2024-06-13 11:57:44,536 - root - INFO - Clicked profile button successfully!
+2024-06-13 11:58:04,923 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-13 12:01:38,501 - root - INFO - Application launched successfully!
+2024-06-13 12:01:41,186 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 12:01:41,187 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 12:01:41,424 - root - INFO - Clicked on username input field.
+2024-06-13 12:01:42,129 - root - INFO - Username entered: venkatesh
+2024-06-13 12:01:42,978 - root - INFO - Clicked on password input field.
+2024-06-13 12:01:44,062 - root - INFO - Password entered: Test@12345
+2024-06-13 12:01:44,815 - root - INFO - Clicked on Sign-in button
+2024-06-13 12:01:49,481 - root - INFO - Welcome to: ORDERS
+2024-06-13 12:01:49,909 - root - INFO - Clicked profile button successfully!
+2024-06-13 12:02:10,352 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-13 12:37:52,992 - root - INFO - Application launched successfully!
+2024-06-13 12:37:55,545 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 12:37:55,545 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 12:37:55,710 - root - INFO - Clicked on username input field.
+2024-06-13 12:37:57,061 - root - INFO - Username entered: venkatesh
+2024-06-13 12:37:57,991 - root - INFO - Clicked on password input field.
+2024-06-13 12:37:58,579 - root - INFO - Password entered: Test@12345
+2024-06-13 12:37:59,304 - root - INFO - Clicked on Sign-in button
+2024-06-13 12:38:04,103 - root - INFO - Welcome to: ORDERS
+2024-06-13 12:38:04,588 - root - INFO - Clicked profile button successfully!
+2024-06-13 12:38:25,192 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-13 12:38:45,383 - root - ERROR - Error while logging out: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-13 12:49:17,089 - root - INFO - Application launched successfully!
+2024-06-13 12:49:19,801 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 12:49:19,805 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 12:49:20,016 - root - INFO - Clicked on username input field.
+2024-06-13 12:49:20,734 - root - INFO - Username entered: venkatesh
+2024-06-13 12:49:21,671 - root - INFO - Clicked on password input field.
+2024-06-13 12:49:22,761 - root - INFO - Password entered: Test@12345
+2024-06-13 12:49:23,974 - root - INFO - Clicked on Sign-in button
+2024-06-13 12:49:29,515 - root - INFO - Welcome to: ORDERS
+2024-06-13 12:49:30,000 - root - INFO - Clicked profile button successfully!
+2024-06-13 12:49:50,241 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-13 12:56:26,331 - root - INFO - Application launched successfully!
+2024-06-13 12:56:28,870 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 12:56:28,882 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 12:56:29,057 - root - INFO - Clicked on username input field.
+2024-06-13 12:56:30,348 - root - INFO - Username entered: venkatesh
+2024-06-13 12:56:31,224 - root - INFO - Clicked on password input field.
+2024-06-13 12:56:32,504 - root - INFO - Password entered: Test@12345
+2024-06-13 12:56:33,245 - root - INFO - Clicked on Sign-in button
+2024-06-13 12:56:38,192 - root - INFO - Welcome to: ORDERS
+2024-06-13 12:56:38,545 - root - INFO - Clicked profile button successfully!
+2024-06-13 12:56:58,660 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-13 12:58:42,728 - root - INFO - Application launched successfully!
+2024-06-13 12:58:45,193 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 12:58:45,193 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 12:58:45,423 - root - INFO - Clicked on username input field.
+2024-06-13 12:58:46,109 - root - INFO - Username entered: venkatesh
+2024-06-13 12:58:47,015 - root - INFO - Clicked on password input field.
+2024-06-13 12:58:48,092 - root - INFO - Password entered: Test@12345
+2024-06-13 12:58:48,851 - root - INFO - Clicked on Sign-in button
+2024-06-13 12:58:54,104 - root - INFO - Welcome to: ORDERS
+2024-06-13 12:58:54,717 - root - INFO - Clicked profile button successfully!
+2024-06-13 12:59:15,156 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2024-06-13 13:05:46,667 - root - INFO - Application launched successfully!
+2024-06-13 13:05:49,168 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 13:05:49,170 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 13:05:49,406 - root - INFO - Clicked on username input field.
+2024-06-13 13:05:50,155 - root - INFO - Username entered: venkatesh
+2024-06-13 13:05:51,053 - root - INFO - Clicked on password input field.
+2024-06-13 13:05:51,623 - root - INFO - Password entered: Test@12345
+2024-06-13 13:05:52,337 - root - INFO - Clicked on Sign-in button
+2024-06-13 13:05:57,156 - root - INFO - Welcome to: ORDERS
+2024-06-13 13:05:58,754 - root - INFO - Clicked profile button successfully!
+2024-06-13 13:06:19,329 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-13 13:10:57,121 - root - INFO - Application launched successfully!
+2024-06-13 13:11:00,070 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 13:11:00,070 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 13:11:00,351 - root - INFO - Clicked on username input field.
+2024-06-13 13:11:01,086 - root - INFO - Username entered: venkatesh
+2024-06-13 13:11:02,046 - root - INFO - Clicked on password input field.
+2024-06-13 13:11:02,639 - root - INFO - Password entered: Test@12345
+2024-06-13 13:11:03,458 - root - INFO - Clicked on Sign-in button
+2024-06-13 13:11:08,360 - root - INFO - Welcome to: ORDERS
+2024-06-13 13:11:10,315 - root - INFO - Clicked profile button successfully!
+2024-06-13 13:11:30,967 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-13 13:12:18,533 - root - INFO - Application launched successfully!
+2024-06-13 13:12:20,979 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 13:12:20,980 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 13:12:21,253 - root - INFO - Clicked on username input field.
+2024-06-13 13:12:22,610 - root - INFO - Username entered: venkatesh
+2024-06-13 13:12:23,587 - root - INFO - Clicked on password input field.
+2024-06-13 13:12:24,672 - root - INFO - Password entered: Test@12345
+2024-06-13 13:12:26,004 - root - INFO - Clicked on Sign-in button
+2024-06-13 13:12:30,502 - root - INFO - Welcome to: ORDERS
+2024-06-13 13:12:32,676 - root - INFO - Clicked profile button successfully!
+2024-06-13 13:12:52,849 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-06-13 14:02:19,380 - root - INFO - Application launched successfully!
+2024-06-13 14:02:21,887 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 14:02:21,888 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 14:02:22,018 - root - INFO - Clicked on username input field.
+2024-06-13 14:02:22,690 - root - INFO - Username entered: venkatesh
+2024-06-13 14:02:23,897 - root - INFO - Clicked on password input field.
+2024-06-13 14:02:24,599 - root - INFO - Password entered: Test@12345
+2024-06-13 14:02:25,210 - root - INFO - Clicked on Sign-in button
+2024-06-13 14:02:30,719 - root - INFO - Welcome to: ORDERS
+2024-06-13 14:04:02,653 - root - INFO - Application launched successfully!
+2024-06-13 14:04:05,132 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 14:04:05,132 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 14:04:05,259 - root - INFO - Clicked on username input field.
+2024-06-13 14:04:05,940 - root - INFO - Username entered: venkatesh
+2024-06-13 14:04:06,678 - root - INFO - Clicked on password input field.
+2024-06-13 14:04:07,697 - root - INFO - Password entered: Test@12345
+2024-06-13 14:04:08,342 - root - INFO - Clicked on Sign-in button
+2024-06-13 14:04:13,523 - root - INFO - Welcome to: ORDERS
+2024-06-13 14:04:13,961 - root - INFO - Clicked profile button successfully!
+2024-06-13 14:04:16,153 - root - INFO - Company: venkatesh mines
+2024-06-13 14:04:16,317 - root - INFO - Name: VENKATESH
+2024-06-13 14:04:16,475 - root - INFO - Role: Partner
+2024-06-13 14:04:16,651 - root - INFO - Status: ACTIVE
+2024-06-13 14:04:16,801 - root - INFO - Email: VENKATESH.GARLAPATI@SERVCRUST.COM
+2024-06-13 14:04:16,955 - root - INFO - Mobile: +917995758674
+2024-06-13 14:04:17,102 - root - INFO - Notifications: ENABLED
+2024-06-13 14:04:17,258 - root - INFO - Created On: 05/03/2024
+2024-06-13 14:04:17,509 - root - INFO - Company details stored in SQLite database successfully.
+2024-06-13 14:08:31,232 - root - INFO - Application launched successfully!
+2024-06-13 14:08:33,604 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 14:08:33,604 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 14:08:33,747 - root - INFO - Clicked on username input field.
+2024-06-13 14:08:35,011 - root - INFO - Username entered: jyothiadmin
+2024-06-13 14:08:35,787 - root - INFO - Clicked on password input field.
+2024-06-13 14:08:36,856 - root - INFO - Password entered: 123@Test
+2024-06-13 14:08:37,436 - root - INFO - Clicked on Sign-in button
+2024-06-13 14:08:42,037 - root - INFO - Welcome to: ORDERS
+2024-06-13 14:08:42,446 - root - INFO - Clicked profile button successfully!
+2024-06-13 14:08:43,525 - root - INFO - Company: 
+2024-06-13 14:08:43,699 - root - INFO - Name: sampath
+2024-06-13 14:08:43,859 - root - INFO - Role: Partner
+2024-06-13 14:08:44,041 - root - INFO - Status: 
+2024-06-13 14:08:44,192 - root - INFO - Email: jyothi.kollipara@servcrust.com
+2024-06-13 14:08:45,044 - root - INFO - Mobile: +919490642624
+2024-06-13 14:08:45,225 - root - INFO - Notifications: ENABLED
+2024-06-13 14:08:45,377 - root - INFO - Created On: 03/08/2023
+2024-06-13 14:08:45,453 - root - INFO - Company details stored in SQLite database successfully.
+2024-06-13 14:12:06,994 - root - INFO - Application launched successfully!
+2024-06-13 14:12:09,689 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 14:12:09,691 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 14:12:09,832 - root - INFO - Clicked on username input field.
+2024-06-13 14:12:10,530 - root - INFO - Username entered: jyothiadmin
+2024-06-13 14:12:11,275 - root - INFO - Clicked on password input field.
+2024-06-13 14:12:12,293 - root - INFO - Password entered: 123@Test
+2024-06-13 14:12:12,908 - root - INFO - Clicked on Sign-in button
+2024-06-13 14:12:18,158 - root - INFO - Welcome to: ORDERS
+2024-06-13 14:12:18,676 - root - INFO - Clicked profile button successfully!
+2024-06-13 14:12:19,753 - root - INFO - Company: Name :
+2024-06-13 14:12:19,913 - root - INFO - Name: sampath
+2024-06-13 14:12:20,073 - root - INFO - Role: Partner
+2024-06-13 14:12:20,214 - root - INFO - Status: 
+2024-06-13 14:12:20,371 - root - INFO - Email: jyothi.kollipara@servcrust.com
+2024-06-13 14:12:21,136 - root - INFO - Mobile: +919490642624
+2024-06-13 14:12:21,298 - root - INFO - Notifications: ENABLED
+2024-06-13 14:12:21,449 - root - INFO - Created On: 03/08/2023
+2024-06-13 14:12:25,550 - root - INFO - Company details stored in SQLite database successfully.
+2024-06-13 14:22:00,265 - root - INFO - Application launched successfully!
+2024-06-13 14:22:02,918 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 14:22:02,918 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 14:22:03,057 - root - INFO - Clicked on username input field.
+2024-06-13 14:22:03,723 - root - INFO - Username entered: jyothiadmin
+2024-06-13 14:22:04,449 - root - INFO - Clicked on password input field.
+2024-06-13 14:22:04,988 - root - INFO - Password entered: 123@Test
+2024-06-13 14:22:05,576 - root - INFO - Clicked on Sign-in button
+2024-06-13 14:22:10,771 - root - INFO - Welcome to: ORDERS
+2024-06-13 14:22:11,168 - root - INFO - Clicked profile button successfully!
+2024-06-13 14:22:12,390 - root - INFO - Company: 
+2024-06-13 14:22:12,532 - root - INFO - Name: sampath
+2024-06-13 14:22:13,371 - root - INFO - Role: Partner
+2024-06-13 14:22:13,516 - root - INFO - Status: ACTIVE
+2024-06-13 14:22:13,669 - root - INFO - Email: jyothi.kollipara@servcrust.com
+2024-06-13 14:22:13,827 - root - INFO - Mobile: +919490642624
+2024-06-13 14:22:13,969 - root - INFO - Notifications: ENABLED
+2024-06-13 14:22:14,099 - root - INFO - Created On: 03/08/2023
+2024-06-13 14:22:29,276 - root - INFO - Company details stored in SQLite database successfully.
+2024-06-13 14:28:00,248 - root - INFO - Application launched successfully!
+2024-06-13 14:28:03,276 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 14:28:03,293 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 14:28:03,433 - root - INFO - Clicked on username input field.
+2024-06-13 14:28:04,097 - root - INFO - Username entered: venkatesh
+2024-06-13 14:28:04,824 - root - INFO - Clicked on password input field.
+2024-06-13 14:28:05,859 - root - INFO - Password entered: Test@12345
+2024-06-13 14:28:06,475 - root - INFO - Clicked on Sign-in button
+2024-06-13 14:28:11,859 - root - INFO - Welcome to: ORDERS
+2024-06-13 14:28:12,232 - root - INFO - Clicked profile button successfully!
+2024-06-13 14:28:13,517 - root - INFO - Company: 
+2024-06-13 14:28:13,676 - root - INFO - Name: VENKATESH
+2024-06-13 14:28:13,880 - root - INFO - Role: Partner
+2024-06-13 14:28:14,022 - root - INFO - Status: 
+2024-06-13 14:28:14,179 - root - INFO - Email: VENKATESH.GARLAPATI@SERVCRUST.COM
+2024-06-13 14:28:14,339 - root - INFO - Mobile: +917995758674
+2024-06-13 14:28:14,496 - root - INFO - Notifications: DIASABLED
+2024-06-13 14:28:14,622 - root - INFO - Created On: 
+2024-06-13 14:28:32,044 - root - INFO - clicked on back button
+2024-06-13 14:28:32,044 - root - INFO - Company details stored in SQLite database successfully.
+2024-06-13 14:28:34,046 - root - INFO - Logged out successfully!
+2024-06-13 14:28:51,278 - root - INFO - Application launched successfully!
+2024-06-13 14:28:51,278 - root - INFO - Application launched successfully!
+2024-06-13 14:28:53,828 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 14:28:53,828 - root - INFO - Clicked on Welcome to Order Management
+2024-06-13 14:28:53,828 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-13 14:28:53,828 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-14 15:22:00,882 - root - INFO - Successfully launched chrome browser
+2024-06-14 15:22:04,496 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-14 15:22:12,053 - root - INFO - Successfully clicked on login button in home page
+2024-06-14 15:24:51,942 - root - INFO - Successfully launched chrome browser
+2024-06-14 15:24:55,081 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-14 15:25:05,037 - root - INFO - Successfully clicked on login button in home page
+2024-06-14 15:27:17,746 - root - INFO - Successfully launched chrome browser
+2024-06-14 15:27:17,897 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-14 15:27:22,466 - root - INFO - Successfully clicked on login button in home page
+2024-06-14 15:36:04,691 - root - INFO - Successfully launched chrome browser
+2024-06-14 15:36:05,312 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-14 15:36:10,050 - root - INFO - Successfully clicked on login button in home page
+2024-06-14 16:01:13,925 - root - INFO - Successfully launched chrome browser
+2024-06-14 16:01:17,527 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-14 16:01:24,316 - root - INFO - Successfully clicked on login button in home page
+2024-06-14 16:01:24,541 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-14 16:01:24,836 - root - INFO - Successfully Logged in
+2024-06-14 16:07:41,415 - root - INFO - Successfully launched chrome browser
+2024-06-14 16:07:44,213 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-14 16:07:53,870 - root - INFO - Successfully clicked on login button in home page
+2024-06-14 16:07:54,234 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-14 16:07:54,803 - root - INFO - Successfully Logged in
+2024-06-14 16:33:41,780 - root - INFO - Successfully launched chrome browser
+2024-06-14 16:33:42,409 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-14 16:33:46,983 - root - INFO - Successfully clicked on login button in home page
+2024-06-14 16:33:47,239 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-14 16:33:47,560 - root - INFO - Successfully Logged in
+2024-06-15 09:08:33,480 - root - INFO - Successfully launched chrome browser
+2024-06-15 09:08:34,523 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 09:08:43,056 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 09:08:43,555 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 09:08:44,094 - root - INFO - Successfully Logged in
+2024-06-15 09:09:03,532 - root - ERROR - Error occured at onBoarding page: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mat-tab-label-3-1"]/span[2]/span"}
+  (Session info: chrome=125.0.6422.144); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 09:09:54,633 - root - INFO - Successfully launched chrome browser
+2024-06-15 09:09:56,074 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 09:10:05,416 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 09:10:06,057 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 09:10:06,688 - root - INFO - Successfully Logged in
+2024-06-15 09:10:25,571 - root - ERROR - Error occured at onBoarding page: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mat-tab-label-3-1"]/span[2]/span"}
+  (Session info: chrome=125.0.6422.144); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 09:13:26,572 - root - INFO - Successfully launched chrome browser
+2024-06-15 09:13:27,613 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 09:13:35,602 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 09:13:36,279 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 09:13:37,049 - root - INFO - Successfully Logged in
+2024-06-15 09:13:55,571 - root - ERROR - Error occured at onBoarding page: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mat-tab-label-3-1"]/span[2]/span"}
+  (Session info: chrome=125.0.6422.144); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 10:30:27,755 - root - INFO - Successfully launched chrome browser
+2024-06-15 10:30:29,238 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 10:30:37,627 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 10:30:38,293 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 10:30:38,832 - root - INFO - Successfully Logged in
+2024-06-15 10:31:37,829 - root - INFO - Successfully launched chrome browser
+2024-06-15 10:31:39,176 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 10:31:55,861 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 10:31:56,601 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 10:31:57,080 - root - INFO - Successfully Logged in
+2024-06-15 10:33:13,494 - root - INFO - Successfully launched chrome browser
+2024-06-15 10:33:14,539 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 10:34:05,762 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 10:34:06,202 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 10:34:06,733 - root - INFO - Successfully Logged in
+2024-06-15 10:34:59,991 - root - ERROR - Error occured at onBoarding page: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mat-tab-label-3-1"]/span[2]/span"}
+  (Session info: chrome=125.0.6422.144); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 10:40:39,247 - root - INFO - Successfully launched chrome browser
+2024-06-15 10:40:41,195 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 10:40:50,086 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 10:40:50,625 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 10:40:51,157 - root - INFO - Successfully Logged in
+2024-06-15 10:41:08,219 - root - ERROR - Error occured at onBoarding page: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mat-tab-label-3-1"]/span[2]/span"}
+  (Session info: chrome=125.0.6422.144); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 10:44:13,555 - root - INFO - Successfully launched chrome browser
+2024-06-15 10:44:21,613 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 10:44:27,441 - root - ERROR - An error occurred while clicking on the login button: Message: element click intercepted: Element is not clickable at point (1377, -699)
+  (Session info: chrome=125.0.6422.144)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE0F32E]
+	(No symbol) [0x00007FF7FCE0CCF2]
+	(No symbol) [0x00007FF7FCE0A18B]
+	(No symbol) [0x00007FF7FCE09356]
+	(No symbol) [0x00007FF7FCDFB491]
+	(No symbol) [0x00007FF7FCE2C21A]
+	(No symbol) [0x00007FF7FCDFADB6]
+	(No symbol) [0x00007FF7FCE2C430]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 10:44:59,278 - root - INFO - Successfully launched chrome browser
+2024-06-15 10:45:00,408 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 10:45:11,124 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 10:45:11,649 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 10:45:12,200 - root - INFO - Successfully Logged in
+2024-06-15 10:45:23,492 - root - ERROR - Error occured at onBoarding page: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mat-tab-label-3-1"]/span[2]/span"}
+  (Session info: chrome=125.0.6422.144); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 10:48:13,128 - root - INFO - Successfully launched chrome browser
+2024-06-15 10:48:14,301 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 10:48:26,014 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 10:48:26,557 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 10:48:27,240 - root - INFO - Successfully Logged in
+2024-06-15 10:48:45,067 - root - ERROR - Error occured at onBoarding page: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mat-tab-label-3-1"]/span[2]/span"}
+  (Session info: chrome=125.0.6422.144); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 10:54:16,871 - root - INFO - Successfully launched chrome browser
+2024-06-15 10:54:20,345 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 10:54:29,355 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 10:54:29,807 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 10:54:30,369 - root - INFO - Successfully Logged in
+2024-06-15 10:54:49,372 - root - ERROR - Error occured at onBoarding page: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mat-tab-label-3-1"]/span[2]/span"}
+  (Session info: chrome=125.0.6422.144); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 11:04:01,641 - root - INFO - Successfully launched chrome browser
+2024-06-15 11:04:01,874 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 11:04:11,044 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 11:04:11,501 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 11:04:12,094 - root - INFO - Successfully Logged in
+2024-06-15 11:05:28,100 - root - WARNING - Attempt 1 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 11:06:41,420 - root - WARNING - Attempt 2 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 11:07:54,701 - root - WARNING - Attempt 3 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 11:08:04,701 - root - INFO - onboarding
+2024-06-15 11:10:55,649 - root - INFO - Successfully launched chrome browser
+2024-06-15 11:10:56,799 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 11:11:06,739 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 11:11:07,224 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 11:11:07,836 - root - INFO - Successfully Logged in
+2024-06-15 11:13:21,705 - root - WARNING - Attempt 1 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 11:14:35,075 - root - WARNING - Attempt 2 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 11:15:48,545 - root - WARNING - Attempt 3 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 11:15:58,546 - root - INFO - onboarding
+2024-06-15 11:21:34,267 - root - INFO - Successfully launched chrome browser
+2024-06-15 11:21:35,418 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 11:21:48,654 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 11:21:49,065 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 11:21:49,651 - root - INFO - Successfully Logged in
+2024-06-15 11:24:04,219 - root - WARNING - Attempt 1 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 11:25:17,424 - root - WARNING - Attempt 2 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 11:25:52,999 - root - INFO - Successfully launched chrome browser
+2024-06-15 11:25:53,222 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 11:26:13,437 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 11:26:14,377 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 11:26:15,038 - root - INFO - Successfully Logged in
+2024-06-15 11:27:36,825 - root - WARNING - Attempt 1 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 11:27:49,373 - root - WARNING - Attempt 2 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 11:28:01,892 - root - WARNING - Attempt 3 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 11:28:03,893 - root - INFO - onboarding
+2024-06-15 12:00:42,111 - root - INFO - Successfully launched chrome browser
+2024-06-15 12:00:43,124 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 12:00:55,880 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 12:00:56,142 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 12:00:56,428 - root - INFO - Successfully Logged in
+2024-06-15 12:02:16,779 - root - WARNING - Attempt 1 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 12:02:29,300 - root - WARNING - Attempt 2 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 12:02:41,875 - root - WARNING - Attempt 3 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 12:02:43,877 - root - INFO - onboarding
+2024-06-15 12:02:54,134 - root - ERROR - Error occured at onBoarding page: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mat-input-19"]"}
+  (Session info: chrome=125.0.6422.144); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 13:04:30,380 - root - INFO - Successfully launched chrome browser
+2024-06-15 13:04:34,877 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 13:04:52,954 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 13:04:53,143 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 13:04:53,773 - root - INFO - Successfully Logged in
+2024-06-15 13:06:15,114 - root - WARNING - Attempt 1 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 13:06:17,114 - root - INFO - logging sucessfull
+2024-06-15 13:06:27,650 - root - WARNING - Attempt 2 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 13:06:29,653 - root - INFO - logging sucessfull
+2024-06-15 13:06:40,215 - root - WARNING - Attempt 3 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 13:06:42,216 - root - INFO - logging sucessfull
+2024-06-15 13:06:42,216 - root - INFO - onboarding
+2024-06-15 13:06:52,780 - root - ERROR - Error occured at onBoarding page: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mat-input-19"]"}
+  (Session info: chrome=125.0.6422.144); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 13:07:11,120 - root - INFO - Successfully launched chrome browser
+2024-06-15 13:07:15,907 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 13:07:45,791 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 13:07:46,153 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 13:07:46,638 - root - INFO - Successfully Logged in
+2024-06-15 13:09:06,730 - root - WARNING - Attempt 1 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 13:09:08,731 - root - INFO - logging sucessfull
+2024-06-15 13:09:19,261 - root - WARNING - Attempt 2 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 13:09:21,262 - root - INFO - logging sucessfull
+2024-06-15 13:09:31,800 - root - WARNING - Attempt 3 - Timeout waiting for Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 13:09:33,801 - root - INFO - logging sucessfull
+2024-06-15 13:09:33,801 - root - INFO - onboarding
+2024-06-15 13:09:43,989 - root - ERROR - Error occured at onBoarding page: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mat-input-19"]"}
+  (Session info: chrome=125.0.6422.144); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 13:37:33,978 - root - INFO - Successfully launched chrome browser
+2024-06-15 13:37:34,325 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 13:37:43,216 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 13:37:43,746 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 13:37:44,391 - root - INFO - Successfully Logged in
+2024-06-15 13:38:20,880 - root - ERROR - An error occurred at verify the user creation in Servcrust User details page for Onboarding: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'ServCrust')]"}
+  (Session info: chrome=125.0.6422.144); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 16:21:19,827 - root - INFO - Successfully launched chrome browser
+2024-06-15 16:21:20,863 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 16:21:31,396 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 16:21:31,998 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 16:21:32,762 - root - INFO - sucess 
+2024-06-15 16:21:32,764 - root - INFO - Successfully Logged in
+2024-06-15 16:21:49,418 - root - ERROR - Error clicked on partner tabMessage: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(@class,'hamburger-icon')]"}
+  (Session info: chrome=125.0.6422.144); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 16:22:52,564 - root - INFO - Successfully launched chrome browser
+2024-06-15 16:22:53,605 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 16:23:01,838 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 16:23:02,695 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 16:23:03,329 - root - INFO - sucess 
+2024-06-15 16:23:03,329 - root - INFO - Successfully Logged in
+2024-06-15 16:24:21,792 - root - ERROR - Error clicked on partner tabMessage: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 16:28:50,181 - root - INFO - Successfully launched chrome browser
+2024-06-15 16:28:51,467 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 16:29:00,064 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 16:29:00,884 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 16:29:01,455 - root - INFO - sucess 
+2024-06-15 16:29:01,457 - root - INFO - Successfully Logged in
+2024-06-15 16:30:20,913 - root - ERROR - Error clicked on partner tabMessage: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 16:42:00,387 - root - INFO - Successfully launched chrome browser
+2024-06-15 16:42:01,478 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 16:42:10,719 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 16:42:11,375 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 16:42:12,900 - root - INFO - sucess 
+2024-06-15 16:42:12,900 - root - INFO - Successfully Logged in
+2024-06-15 16:43:41,741 - root - ERROR - Error navigating to Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+
+2024-06-15 16:44:56,398 - root - INFO - Successfully launched chrome browser
+2024-06-15 16:44:57,515 - root - INFO - Successfully accessed https://staging.servcrust.com/
+2024-06-15 16:45:07,325 - root - INFO - Successfully clicked on login button in home page
+2024-06-15 16:45:07,892 - root - INFO - Entered User_Name: Rupendhra and Entered Password: Test@1234
+2024-06-15 16:45:09,411 - root - INFO - sucess 
+2024-06-15 16:45:09,412 - root - INFO - Successfully Logged in
+2024-06-15 16:45:58,330 - root - ERROR - Error navigating to Partners tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FCF81F52+60322]
+	(No symbol) [0x00007FF7FCEFCEC9]
+	(No symbol) [0x00007FF7FCDB7EBA]
+	(No symbol) [0x00007FF7FCE07676]
+	(No symbol) [0x00007FF7FCE0773C]
+	(No symbol) [0x00007FF7FCE4E967]
+	(No symbol) [0x00007FF7FCE2C25F]
+	(No symbol) [0x00007FF7FCE4BC80]
+	(No symbol) [0x00007FF7FCE2BFC3]
+	(No symbol) [0x00007FF7FCDF9617]
+	(No symbol) [0x00007FF7FCDFA211]
+	GetHandleVerifier [0x00007FF7FD2994AD+3301629]
+	GetHandleVerifier [0x00007FF7FD2E36D3+3605283]
+	GetHandleVerifier [0x00007FF7FD2D9450+3563680]
+	GetHandleVerifier [0x00007FF7FD034326+790390]
+	(No symbol) [0x00007FF7FCF0750F]
+	(No symbol) [0x00007FF7FCF03404]
+	(No symbol) [0x00007FF7FCF03592]
+	(No symbol) [0x00007FF7FCEF2F9F]
+	BaseThreadInitThunk [0x00007FFF18EC257D+29]
+	RtlUserThreadStart [0x00007FFF19C2AF28+40]
+

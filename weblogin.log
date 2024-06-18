@@ -1,0 +1,11 @@
+INFO:root:Application opened successfully!
+INFO:root:Clicked on Welcome to Order Management
+INFO:root:clicked on user input field
+INFO:root:Username entered: <appium.webdriver.webelement.WebElement (session="68e802c3-a16c-420f-995a-4e1bad26685f", element="e49b7c0f-6028-4b7c-89e8-5bd637975b8e")>
+INFO:root:Entered username: venkatesh
+INFO:root:clicked on password field
+INFO:root:Password entered: <appium.webdriver.webelement.WebElement (session="68e802c3-a16c-420f-995a-4e1bad26685f", element="83854014-8e64-4db2-9329-45fc2036e187")>
+INFO:root:Entered password: Test@12345
+INFO:root:Clicked on Sign-in button
+INFO:root:Welcome to: ORDERS
+INFO:root:Logged out successfully!

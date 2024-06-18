@@ -1,0 +1,29 @@
+{
+    "url" : "https://staging.servcrust.com/",
+    "super_admin_username" : "Rupendhra",
+    "super_admin_password" : "Test@1234",
+    "admin_username" : "Automation",
+    "admin_password" : "Test@1234",
+    "executive_username" : "Texecutive",
+    "executive_password" : "Test@12345",
+    "onboarding_username" : "automationonboarding",
+    "onboarding_password" : "Test@1234",
+    "accountant_username" : "automationaccountant",
+    "accountant_password" : "Test@1234",
+    "operationshead_username" : "ohead",
+    "operationshead_password" : "Vishal1@",
+    "supportmanager_username" : "automationsupportmanager",
+    "supportmanager_password" : "Test@1234",
+    "supportexecutive_username" : "automationsupportexecutive",
+    "supportexecutive_password" : "Test@1234",
+    "financehead_username" : "financeheadautomation",
+    "financehead_password" : "Test@1234",
+    "order_id" : "TS16_13-20230423-6",
+    "product_search" : "60MM",
+    "quantity_search" : "100",
+    "add_stock" : "100",
+    "miscellaneous_search" : "Introductory Discount"
+
+}
+
+

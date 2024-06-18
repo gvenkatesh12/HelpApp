@@ -1,0 +1,10 @@
+2024-06-08 23:05:07,598 - root - INFO - Hi message sent
+2024-06-08 23:05:07,598 - root - INFO - Please choose language(English/Telugu)
+2024-06-08 23:05:08,204 - root - INFO - Verified language as it is asking to send gps
+2024-06-08 23:05:08,206 - root - INFO - Given location is = latitude:18.782832 and longitude:78.298908
+2024-06-08 23:05:09,971 - root - INFO - ['10MM', '20MM', '40MM', '50MM', '60MM', 'GSB', 'rock', 'sand', 'WETMIX']
+2024-06-08 23:05:09,971 - root - INFO - Product selected is : 40MM
+2024-06-08 23:05:10,591 - root - INFO - Quantity selected is : 240
+2024-06-08 23:05:13,239 - root - INFO - Payment methods : ['UPI', 'Others', 'Pay On Delivery']
+2024-06-08 23:05:13,847 - root - INFO - Your payment option is pay on delivery
+2024-06-08 23:05:13,853 - root - INFO - Order Number: TS18_13-2425-229

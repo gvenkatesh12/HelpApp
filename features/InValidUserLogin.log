@@ -1,0 +1,1530 @@
+2024-06-10 22:45:33,385 - root - INFO - Application launched successfully!
+2024-06-10 22:45:35,451 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:45:35,451 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:45:39,485 - root - INFO - Clicked on username input field.
+2024-06-10 22:45:39,485 - root - INFO - Clicked on username input field.
+2024-06-10 22:45:41,289 - root - INFO - Username entered: john_doe
+2024-06-10 22:45:41,289 - root - INFO - Username entered: john_doe
+2024-06-10 22:45:42,434 - root - INFO - Clicked on password input field.
+2024-06-10 22:45:42,434 - root - INFO - Clicked on password input field.
+2024-06-10 22:45:43,486 - root - INFO - Password entered: JohnDoe@!
+2024-06-10 22:45:43,486 - root - INFO - Password entered: JohnDoe@!
+2024-06-10 22:45:44,174 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:45:44,174 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:45:44,399 - root - INFO - showing the error message
+2024-06-10 22:45:44,399 - root - INFO - showing the error message
+2024-06-10 22:45:44,399 - root - INFO - test case passed!!!
+2024-06-10 22:45:44,399 - root - INFO - test case passed!!!
+2024-06-10 22:46:11,358 - root - INFO - Application launched successfully!
+2024-06-10 22:46:11,358 - root - INFO - Application launched successfully!
+2024-06-10 22:46:11,358 - root - INFO - Application launched successfully!
+2024-06-10 22:46:13,412 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:46:13,412 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:46:13,412 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:46:13,412 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:46:16,426 - root - INFO - Clicked on username input field.
+2024-06-10 22:46:16,426 - root - INFO - Clicked on username input field.
+2024-06-10 22:46:16,426 - root - INFO - Clicked on username input field.
+2024-06-10 22:46:16,426 - root - INFO - Clicked on username input field.
+2024-06-10 22:46:17,910 - root - INFO - Username entered: jane.doe
+2024-06-10 22:46:17,910 - root - INFO - Username entered: jane.doe
+2024-06-10 22:46:17,910 - root - INFO - Username entered: jane.doe
+2024-06-10 22:46:17,910 - root - INFO - Username entered: jane.doe
+2024-06-10 22:46:18,767 - root - INFO - Clicked on password input field.
+2024-06-10 22:46:18,767 - root - INFO - Clicked on password input field.
+2024-06-10 22:46:18,767 - root - INFO - Clicked on password input field.
+2024-06-10 22:46:18,767 - root - INFO - Clicked on password input field.
+2024-06-10 22:46:19,794 - root - INFO - Password entered: JaneDoe#$%^
+2024-06-10 22:46:19,794 - root - INFO - Password entered: JaneDoe#$%^
+2024-06-10 22:46:19,794 - root - INFO - Password entered: JaneDoe#$%^
+2024-06-10 22:46:19,794 - root - INFO - Password entered: JaneDoe#$%^
+2024-06-10 22:46:20,467 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:46:20,467 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:46:20,467 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:46:20,467 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:46:20,650 - root - INFO - showing the error message
+2024-06-10 22:46:20,650 - root - INFO - showing the error message
+2024-06-10 22:46:20,650 - root - INFO - showing the error message
+2024-06-10 22:46:20,650 - root - INFO - showing the error message
+2024-06-10 22:46:20,650 - root - INFO - test case passed!!!
+2024-06-10 22:46:20,650 - root - INFO - test case passed!!!
+2024-06-10 22:46:20,650 - root - INFO - test case passed!!!
+2024-06-10 22:46:20,650 - root - INFO - test case passed!!!
+2024-06-10 22:46:46,418 - root - INFO - Application launched successfully!
+2024-06-10 22:46:46,418 - root - INFO - Application launched successfully!
+2024-06-10 22:46:46,418 - root - INFO - Application launched successfully!
+2024-06-10 22:46:46,418 - root - INFO - Application launched successfully!
+2024-06-10 22:46:46,418 - root - INFO - Application launched successfully!
+2024-06-10 22:46:48,490 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:46:48,490 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:46:48,490 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:46:48,490 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:46:48,490 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:46:48,490 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:46:51,422 - root - INFO - Clicked on username input field.
+2024-06-10 22:46:51,422 - root - INFO - Clicked on username input field.
+2024-06-10 22:46:51,422 - root - INFO - Clicked on username input field.
+2024-06-10 22:46:51,422 - root - INFO - Clicked on username input field.
+2024-06-10 22:46:51,422 - root - INFO - Clicked on username input field.
+2024-06-10 22:46:51,422 - root - INFO - Clicked on username input field.
+2024-06-10 22:46:52,799 - root - INFO - Username entered: user123
+2024-06-10 22:46:52,799 - root - INFO - Username entered: user123
+2024-06-10 22:46:52,799 - root - INFO - Username entered: user123
+2024-06-10 22:46:52,799 - root - INFO - Username entered: user123
+2024-06-10 22:46:52,799 - root - INFO - Username entered: user123
+2024-06-10 22:46:52,799 - root - INFO - Username entered: user123
+2024-06-10 22:46:53,655 - root - INFO - Clicked on password input field.
+2024-06-10 22:46:53,655 - root - INFO - Clicked on password input field.
+2024-06-10 22:46:53,655 - root - INFO - Clicked on password input field.
+2024-06-10 22:46:53,655 - root - INFO - Clicked on password input field.
+2024-06-10 22:46:53,655 - root - INFO - Clicked on password input field.
+2024-06-10 22:46:53,655 - root - INFO - Clicked on password input field.
+2024-06-10 22:46:54,203 - root - INFO - Password entered: User123!@#
+2024-06-10 22:46:54,203 - root - INFO - Password entered: User123!@#
+2024-06-10 22:46:54,203 - root - INFO - Password entered: User123!@#
+2024-06-10 22:46:54,203 - root - INFO - Password entered: User123!@#
+2024-06-10 22:46:54,203 - root - INFO - Password entered: User123!@#
+2024-06-10 22:46:54,203 - root - INFO - Password entered: User123!@#
+2024-06-10 22:46:54,906 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:46:54,906 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:46:54,906 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:46:54,906 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:46:54,906 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:46:54,906 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:46:55,759 - root - INFO - showing the error message
+2024-06-10 22:46:55,759 - root - INFO - showing the error message
+2024-06-10 22:46:55,759 - root - INFO - showing the error message
+2024-06-10 22:46:55,759 - root - INFO - showing the error message
+2024-06-10 22:46:55,759 - root - INFO - showing the error message
+2024-06-10 22:46:55,759 - root - INFO - showing the error message
+2024-06-10 22:46:55,760 - root - INFO - test case passed!!!
+2024-06-10 22:46:55,760 - root - INFO - test case passed!!!
+2024-06-10 22:46:55,760 - root - INFO - test case passed!!!
+2024-06-10 22:46:55,760 - root - INFO - test case passed!!!
+2024-06-10 22:46:55,760 - root - INFO - test case passed!!!
+2024-06-10 22:46:55,760 - root - INFO - test case passed!!!
+2024-06-10 22:47:22,890 - root - INFO - Application launched successfully!
+2024-06-10 22:47:22,890 - root - INFO - Application launched successfully!
+2024-06-10 22:47:22,890 - root - INFO - Application launched successfully!
+2024-06-10 22:47:22,890 - root - INFO - Application launched successfully!
+2024-06-10 22:47:22,890 - root - INFO - Application launched successfully!
+2024-06-10 22:47:22,890 - root - INFO - Application launched successfully!
+2024-06-10 22:47:22,890 - root - INFO - Application launched successfully!
+2024-06-10 22:47:24,953 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:47:24,953 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:47:24,953 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:47:24,953 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:47:24,953 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:47:24,953 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:47:24,953 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:47:24,953 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:47:28,135 - root - INFO - Clicked on username input field.
+2024-06-10 22:47:28,135 - root - INFO - Clicked on username input field.
+2024-06-10 22:47:28,135 - root - INFO - Clicked on username input field.
+2024-06-10 22:47:28,135 - root - INFO - Clicked on username input field.
+2024-06-10 22:47:28,135 - root - INFO - Clicked on username input field.
+2024-06-10 22:47:28,135 - root - INFO - Clicked on username input field.
+2024-06-10 22:47:28,135 - root - INFO - Clicked on username input field.
+2024-06-10 22:47:28,135 - root - INFO - Clicked on username input field.
+2024-06-10 22:47:29,494 - root - INFO - Username entered: partner_xyz
+2024-06-10 22:47:29,494 - root - INFO - Username entered: partner_xyz
+2024-06-10 22:47:29,494 - root - INFO - Username entered: partner_xyz
+2024-06-10 22:47:29,494 - root - INFO - Username entered: partner_xyz
+2024-06-10 22:47:29,494 - root - INFO - Username entered: partner_xyz
+2024-06-10 22:47:29,494 - root - INFO - Username entered: partner_xyz
+2024-06-10 22:47:29,494 - root - INFO - Username entered: partner_xyz
+2024-06-10 22:47:29,494 - root - INFO - Username entered: partner_xyz
+2024-06-10 22:47:30,292 - root - INFO - Clicked on password input field.
+2024-06-10 22:47:30,292 - root - INFO - Clicked on password input field.
+2024-06-10 22:47:30,292 - root - INFO - Clicked on password input field.
+2024-06-10 22:47:30,292 - root - INFO - Clicked on password input field.
+2024-06-10 22:47:30,292 - root - INFO - Clicked on password input field.
+2024-06-10 22:47:30,292 - root - INFO - Clicked on password input field.
+2024-06-10 22:47:30,292 - root - INFO - Clicked on password input field.
+2024-06-10 22:47:30,292 - root - INFO - Clicked on password input field.
+2024-06-10 22:47:31,101 - root - INFO - Password entered: PartnerXYZ&*
+2024-06-10 22:47:31,101 - root - INFO - Password entered: PartnerXYZ&*
+2024-06-10 22:47:31,101 - root - INFO - Password entered: PartnerXYZ&*
+2024-06-10 22:47:31,101 - root - INFO - Password entered: PartnerXYZ&*
+2024-06-10 22:47:31,101 - root - INFO - Password entered: PartnerXYZ&*
+2024-06-10 22:47:31,101 - root - INFO - Password entered: PartnerXYZ&*
+2024-06-10 22:47:31,101 - root - INFO - Password entered: PartnerXYZ&*
+2024-06-10 22:47:31,101 - root - INFO - Password entered: PartnerXYZ&*
+2024-06-10 22:47:31,521 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:47:31,521 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:47:31,521 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:47:31,521 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:47:31,521 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:47:31,521 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:47:31,521 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:47:31,521 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:47:31,729 - root - INFO - showing the error message
+2024-06-10 22:47:31,729 - root - INFO - showing the error message
+2024-06-10 22:47:31,729 - root - INFO - showing the error message
+2024-06-10 22:47:31,729 - root - INFO - showing the error message
+2024-06-10 22:47:31,729 - root - INFO - showing the error message
+2024-06-10 22:47:31,729 - root - INFO - showing the error message
+2024-06-10 22:47:31,729 - root - INFO - showing the error message
+2024-06-10 22:47:31,729 - root - INFO - showing the error message
+2024-06-10 22:47:31,730 - root - INFO - test case passed!!!
+2024-06-10 22:47:31,730 - root - INFO - test case passed!!!
+2024-06-10 22:47:31,730 - root - INFO - test case passed!!!
+2024-06-10 22:47:31,730 - root - INFO - test case passed!!!
+2024-06-10 22:47:31,730 - root - INFO - test case passed!!!
+2024-06-10 22:47:31,730 - root - INFO - test case passed!!!
+2024-06-10 22:47:31,730 - root - INFO - test case passed!!!
+2024-06-10 22:47:31,730 - root - INFO - test case passed!!!
+2024-06-10 22:47:58,474 - root - INFO - Application launched successfully!
+2024-06-10 22:47:58,474 - root - INFO - Application launched successfully!
+2024-06-10 22:47:58,474 - root - INFO - Application launched successfully!
+2024-06-10 22:47:58,474 - root - INFO - Application launched successfully!
+2024-06-10 22:47:58,474 - root - INFO - Application launched successfully!
+2024-06-10 22:47:58,474 - root - INFO - Application launched successfully!
+2024-06-10 22:47:58,474 - root - INFO - Application launched successfully!
+2024-06-10 22:47:58,474 - root - INFO - Application launched successfully!
+2024-06-10 22:47:58,474 - root - INFO - Application launched successfully!
+2024-06-10 22:48:00,541 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:00,541 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:00,541 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:00,541 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:00,541 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:00,541 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:00,541 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:00,541 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:00,541 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:00,541 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:03,587 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:03,587 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:03,587 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:03,587 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:03,587 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:03,587 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:03,587 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:03,587 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:03,587 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:03,587 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:04,956 - root - INFO - Username entered: test_user
+2024-06-10 22:48:04,956 - root - INFO - Username entered: test_user
+2024-06-10 22:48:04,956 - root - INFO - Username entered: test_user
+2024-06-10 22:48:04,956 - root - INFO - Username entered: test_user
+2024-06-10 22:48:04,956 - root - INFO - Username entered: test_user
+2024-06-10 22:48:04,956 - root - INFO - Username entered: test_user
+2024-06-10 22:48:04,956 - root - INFO - Username entered: test_user
+2024-06-10 22:48:04,956 - root - INFO - Username entered: test_user
+2024-06-10 22:48:04,956 - root - INFO - Username entered: test_user
+2024-06-10 22:48:04,956 - root - INFO - Username entered: test_user
+2024-06-10 22:48:05,788 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:05,788 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:05,788 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:05,788 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:05,788 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:05,788 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:05,788 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:05,788 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:05,788 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:05,788 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:06,830 - root - INFO - Password entered: TestUser123$
+2024-06-10 22:48:06,830 - root - INFO - Password entered: TestUser123$
+2024-06-10 22:48:06,830 - root - INFO - Password entered: TestUser123$
+2024-06-10 22:48:06,830 - root - INFO - Password entered: TestUser123$
+2024-06-10 22:48:06,830 - root - INFO - Password entered: TestUser123$
+2024-06-10 22:48:06,830 - root - INFO - Password entered: TestUser123$
+2024-06-10 22:48:06,830 - root - INFO - Password entered: TestUser123$
+2024-06-10 22:48:06,830 - root - INFO - Password entered: TestUser123$
+2024-06-10 22:48:06,830 - root - INFO - Password entered: TestUser123$
+2024-06-10 22:48:06,830 - root - INFO - Password entered: TestUser123$
+2024-06-10 22:48:07,539 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:07,539 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:07,539 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:07,539 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:07,539 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:07,539 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:07,539 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:07,539 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:07,539 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:07,539 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:07,712 - root - INFO - showing the error message
+2024-06-10 22:48:07,712 - root - INFO - showing the error message
+2024-06-10 22:48:07,712 - root - INFO - showing the error message
+2024-06-10 22:48:07,712 - root - INFO - showing the error message
+2024-06-10 22:48:07,712 - root - INFO - showing the error message
+2024-06-10 22:48:07,712 - root - INFO - showing the error message
+2024-06-10 22:48:07,712 - root - INFO - showing the error message
+2024-06-10 22:48:07,712 - root - INFO - showing the error message
+2024-06-10 22:48:07,712 - root - INFO - showing the error message
+2024-06-10 22:48:07,712 - root - INFO - showing the error message
+2024-06-10 22:48:07,713 - root - INFO - test case passed!!!
+2024-06-10 22:48:07,713 - root - INFO - test case passed!!!
+2024-06-10 22:48:07,713 - root - INFO - test case passed!!!
+2024-06-10 22:48:07,713 - root - INFO - test case passed!!!
+2024-06-10 22:48:07,713 - root - INFO - test case passed!!!
+2024-06-10 22:48:07,713 - root - INFO - test case passed!!!
+2024-06-10 22:48:07,713 - root - INFO - test case passed!!!
+2024-06-10 22:48:07,713 - root - INFO - test case passed!!!
+2024-06-10 22:48:07,713 - root - INFO - test case passed!!!
+2024-06-10 22:48:07,713 - root - INFO - test case passed!!!
+2024-06-10 22:48:34,852 - root - INFO - Application launched successfully!
+2024-06-10 22:48:34,852 - root - INFO - Application launched successfully!
+2024-06-10 22:48:34,852 - root - INFO - Application launched successfully!
+2024-06-10 22:48:34,852 - root - INFO - Application launched successfully!
+2024-06-10 22:48:34,852 - root - INFO - Application launched successfully!
+2024-06-10 22:48:34,852 - root - INFO - Application launched successfully!
+2024-06-10 22:48:34,852 - root - INFO - Application launched successfully!
+2024-06-10 22:48:34,852 - root - INFO - Application launched successfully!
+2024-06-10 22:48:34,852 - root - INFO - Application launched successfully!
+2024-06-10 22:48:34,852 - root - INFO - Application launched successfully!
+2024-06-10 22:48:34,852 - root - INFO - Application launched successfully!
+2024-06-10 22:48:36,909 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:36,909 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:36,909 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:36,909 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:36,909 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:36,909 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:36,909 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:36,909 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:36,909 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:36,909 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:36,909 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:36,909 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:48:39,535 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:39,535 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:39,535 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:39,535 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:39,535 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:39,535 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:39,535 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:39,535 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:39,535 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:39,535 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:39,535 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:39,535 - root - INFO - Clicked on username input field.
+2024-06-10 22:48:40,905 - root - INFO - Username entered: invalid_user
+2024-06-10 22:48:40,905 - root - INFO - Username entered: invalid_user
+2024-06-10 22:48:40,905 - root - INFO - Username entered: invalid_user
+2024-06-10 22:48:40,905 - root - INFO - Username entered: invalid_user
+2024-06-10 22:48:40,905 - root - INFO - Username entered: invalid_user
+2024-06-10 22:48:40,905 - root - INFO - Username entered: invalid_user
+2024-06-10 22:48:40,905 - root - INFO - Username entered: invalid_user
+2024-06-10 22:48:40,905 - root - INFO - Username entered: invalid_user
+2024-06-10 22:48:40,905 - root - INFO - Username entered: invalid_user
+2024-06-10 22:48:40,905 - root - INFO - Username entered: invalid_user
+2024-06-10 22:48:40,905 - root - INFO - Username entered: invalid_user
+2024-06-10 22:48:40,905 - root - INFO - Username entered: invalid_user
+2024-06-10 22:48:41,771 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:41,771 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:41,771 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:41,771 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:41,771 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:41,771 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:41,771 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:41,771 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:41,771 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:41,771 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:41,771 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:41,771 - root - INFO - Clicked on password input field.
+2024-06-10 22:48:42,823 - root - INFO - Password entered: InvalidPass!@#
+2024-06-10 22:48:42,823 - root - INFO - Password entered: InvalidPass!@#
+2024-06-10 22:48:42,823 - root - INFO - Password entered: InvalidPass!@#
+2024-06-10 22:48:42,823 - root - INFO - Password entered: InvalidPass!@#
+2024-06-10 22:48:42,823 - root - INFO - Password entered: InvalidPass!@#
+2024-06-10 22:48:42,823 - root - INFO - Password entered: InvalidPass!@#
+2024-06-10 22:48:42,823 - root - INFO - Password entered: InvalidPass!@#
+2024-06-10 22:48:42,823 - root - INFO - Password entered: InvalidPass!@#
+2024-06-10 22:48:42,823 - root - INFO - Password entered: InvalidPass!@#
+2024-06-10 22:48:42,823 - root - INFO - Password entered: InvalidPass!@#
+2024-06-10 22:48:42,823 - root - INFO - Password entered: InvalidPass!@#
+2024-06-10 22:48:42,823 - root - INFO - Password entered: InvalidPass!@#
+2024-06-10 22:48:43,580 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:43,580 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:43,580 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:43,580 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:43,580 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:43,580 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:43,580 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:43,580 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:43,580 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:43,580 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:43,580 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:43,580 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:48:44,409 - root - INFO - showing the error message
+2024-06-10 22:48:44,409 - root - INFO - showing the error message
+2024-06-10 22:48:44,409 - root - INFO - showing the error message
+2024-06-10 22:48:44,409 - root - INFO - showing the error message
+2024-06-10 22:48:44,409 - root - INFO - showing the error message
+2024-06-10 22:48:44,409 - root - INFO - showing the error message
+2024-06-10 22:48:44,409 - root - INFO - showing the error message
+2024-06-10 22:48:44,409 - root - INFO - showing the error message
+2024-06-10 22:48:44,409 - root - INFO - showing the error message
+2024-06-10 22:48:44,409 - root - INFO - showing the error message
+2024-06-10 22:48:44,409 - root - INFO - showing the error message
+2024-06-10 22:48:44,409 - root - INFO - showing the error message
+2024-06-10 22:48:44,411 - root - INFO - test case passed!!!
+2024-06-10 22:48:44,411 - root - INFO - test case passed!!!
+2024-06-10 22:48:44,411 - root - INFO - test case passed!!!
+2024-06-10 22:48:44,411 - root - INFO - test case passed!!!
+2024-06-10 22:48:44,411 - root - INFO - test case passed!!!
+2024-06-10 22:48:44,411 - root - INFO - test case passed!!!
+2024-06-10 22:48:44,411 - root - INFO - test case passed!!!
+2024-06-10 22:48:44,411 - root - INFO - test case passed!!!
+2024-06-10 22:48:44,411 - root - INFO - test case passed!!!
+2024-06-10 22:48:44,411 - root - INFO - test case passed!!!
+2024-06-10 22:48:44,411 - root - INFO - test case passed!!!
+2024-06-10 22:48:44,411 - root - INFO - test case passed!!!
+2024-06-10 22:49:13,057 - root - INFO - Application launched successfully!
+2024-06-10 22:49:13,057 - root - INFO - Application launched successfully!
+2024-06-10 22:49:13,057 - root - INFO - Application launched successfully!
+2024-06-10 22:49:13,057 - root - INFO - Application launched successfully!
+2024-06-10 22:49:13,057 - root - INFO - Application launched successfully!
+2024-06-10 22:49:13,057 - root - INFO - Application launched successfully!
+2024-06-10 22:49:13,057 - root - INFO - Application launched successfully!
+2024-06-10 22:49:13,057 - root - INFO - Application launched successfully!
+2024-06-10 22:49:13,057 - root - INFO - Application launched successfully!
+2024-06-10 22:49:13,057 - root - INFO - Application launched successfully!
+2024-06-10 22:49:13,057 - root - INFO - Application launched successfully!
+2024-06-10 22:49:13,057 - root - INFO - Application launched successfully!
+2024-06-10 22:49:13,057 - root - INFO - Application launched successfully!
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:15,116 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:17,958 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:19,308 - root - INFO - Username entered: wrong_user
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,126 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:20,682 - root - INFO - Password entered: WrongPassword*&
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,352 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,512 - root - INFO - showing the error message
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:21,513 - root - INFO - test case passed!!!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:49,465 - root - INFO - Application launched successfully!
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:51,519 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:54,473 - root - INFO - Clicked on username input field.
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:55,851 - root - INFO - Username entered: special_user
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:56,753 - root - INFO - Clicked on password input field.
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:57,313 - root - INFO - Password entered: SpecialPass$%^&
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,005 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,156 - root - INFO - showing the error message
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:49:58,157 - root - INFO - test case passed!!!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:24,806 - root - INFO - Application launched successfully!
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:26,847 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:29,492 - root - INFO - Clicked on username input field.
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,177 - root - INFO - Username entered: temp_partner
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:31,720 - root - INFO - Clicked on password input field.
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,280 - root - INFO - Password entered: TempPartner12!@
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:32,972 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,737 - root - INFO - showing the error message
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:33,739 - root - INFO - test case passed!!!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:50:59,961 - root - INFO - Application launched successfully!
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:02,038 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:04,658 - root - INFO - Clicked on username input field.
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:06,065 - root - INFO - Username entered: new_user
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,006 - root - INFO - Clicked on password input field.
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:07,603 - root - INFO - Password entered: NewUser123#
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:08,305 - root - INFO - Clicked on Sign-in button
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,192 - root - INFO - showing the error message
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!
+2024-06-10 22:51:09,195 - root - INFO - test case passed!!!

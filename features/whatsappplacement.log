@@ -1,0 +1,47 @@
+2024-05-31 17:48:23,874 - root - INFO - H72E0MRDXK1ACKE2V8RX0UJ2IQLT
+2024-05-31 17:48:25,586 - root - ERROR - Error occurred while sending Hii message: Expecting value: line 1 column 1 (char 0)
+2024-05-31 17:48:25,586 - root - INFO - hii response: None
+2024-05-31 17:48:25,586 - root - INFO - Hii Sent Succsessfully....
+2024-05-31 17:48:25,586 - root - ERROR - Error occurred while showing the choose language: argument of type 'NoneType' is not iterable
+2024-05-31 17:48:25,586 - root - ERROR - Error occurred while showing the choose language: argument of type 'NoneType' is not iterable
+2024-05-31 17:48:25,599 - root - ERROR - Error occured while verifying the language: 'Context' object has no attribute 'language_response'
+2024-05-31 18:15:14,648 - root - INFO - U0U4SHRIHWQA4QMUHENGVVCCFLIW
+2024-05-31 18:15:16,386 - root - ERROR - Error occurred while sending Hii message: Expecting value: line 1 column 1 (char 0)
+2024-05-31 18:15:16,386 - root - INFO - hii response: None
+2024-05-31 18:15:16,386 - root - INFO - Hii Sent Succsessfully....
+2024-05-31 18:15:16,386 - root - ERROR - Error occurred while showing the choose language: argument of type 'NoneType' is not iterable
+2024-05-31 18:15:16,386 - root - ERROR - Error occurred while showing the choose language: argument of type 'NoneType' is not iterable
+2024-05-31 18:15:16,386 - root - ERROR - Error occured while verifying the language: 'Context' object has no attribute 'language_response'
+2024-05-31 18:37:30,755 - root - INFO - KXO2Q5G8KJ4G80RR1UJYJ8000ZEY
+2024-05-31 18:37:32,557 - root - ERROR - Error occurred while sending Hii message: Expecting value: line 1 column 1 (char 0)
+2024-05-31 18:37:32,557 - root - INFO - hii response: None
+2024-05-31 18:37:32,557 - root - INFO - Hii Sent Succsessfully....
+2024-05-31 18:37:32,566 - root - ERROR - Error occurred while showing the choose language: argument of type 'NoneType' is not iterable
+2024-05-31 18:37:32,566 - root - ERROR - Error occurred while showing the choose language: argument of type 'NoneType' is not iterable
+2024-05-31 18:37:32,566 - root - ERROR - Error occured while verifying the language: 'Context' object has no attribute 'language_response'
+2024-06-03 19:29:30,924 - root - INFO - 7LVEOIZ50IOP1NCVSJ62R8UB3JBF
+2024-06-03 19:29:31,917 - root - ERROR - Error occurred while sending Hii message: Expecting value: line 1 column 1 (char 0)
+2024-06-03 19:29:31,918 - root - INFO - hii response: None
+2024-06-03 19:29:31,919 - root - INFO - Hii Sent Succsessfully....
+2024-06-03 19:29:31,919 - root - ERROR - Error occurred while showing the choose language: argument of type 'NoneType' is not iterable
+2024-06-03 19:29:31,919 - root - ERROR - Error occurred while showing the choose language: argument of type 'NoneType' is not iterable
+2024-06-03 19:29:31,919 - root - ERROR - Error occured while verifying the language: 'Context' object has no attribute 'language_response'
+2024-06-04 15:47:53,895 - root - INFO - VFBD300X40SN9TU0QV92B5APNE8Z
+2024-06-04 15:47:56,581 - root - ERROR - Error occurred while sending Hii message: Expecting value: line 1 column 1 (char 0)
+2024-06-04 15:47:56,581 - root - INFO - hii response: None
+2024-06-04 15:47:56,583 - root - INFO - Hii Sent Succsessfully....
+2024-06-04 15:47:56,585 - root - ERROR - Error occurred while showing the choose language: argument of type 'NoneType' is not iterable
+2024-06-04 15:47:56,588 - root - ERROR - Error occurred while showing the choose language: argument of type 'NoneType' is not iterable
+2024-06-04 15:47:56,590 - root - ERROR - Error occured while verifying the language: 'Context' object has no attribute 'language_response'
+2024-06-05 18:37:29,679 - root - INFO - WU4VDHTCI38N5P03PE9394RW461I
+2024-06-05 18:37:32,322 - root - INFO - hii response: "channel=whatsapp&source=917834811114&destination=919783793251&src.name=autooms&message={\"type\": \"list\", \"title\": \"Welcome to Servcrust.\", \"body\": \"Please select your language\",\"msgid\": \"12345languagemsgid\", \"globalButtons\": [ { \"type\": \"text\", \"title\": \"Click to select\" } ],\"items\": [ { \"title\": \"Language\", \"options\": [ { \"type\": \"text\", \"title\": \"English\", \"description\": \"Please Proceed\",\"postbackText\":\"English\"},{ \"type\": \"text\", \"title\": \"\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41\", \"description\": \"\u0c38\u0c02\u0c2d\u0c3e\u0c37\u0c23\u0c28\u0c41 \u0c15\u0c4a\u0c28\u0c38\u0c3e\u0c17\u0c3f\u0c02\u0c1a\u0c02\u0c21\u0c3f.\",\"postbackText\":\"Telugu\"},{ \"type\": \"text\", \"title\": \"\u0939\u093f\u0902\u0926\u0940\", \"description\": \"\u0939\u093f\u0902\u0926\u0940 \u092d\u093e\u0937\u093e \u091a\u092f\u0928 \u0915\u0947 \u0932\u093f\u090f  \",\"postbackText\":\"hindi\"},{ \"type\": \"text\", \"title\": \"\u092e\u0930\u093e\u0920\u0940\", \"description\": \"\u092e\u0930\u093e\u0920\u0940\u0938\u093e\u0920\u0940 \u0915\u0943\u092a\u092f\u093e \u092a\u0941\u0922\u0947 \u091a\u0932\u093e\",\"postbackText\":\"marathi\"} ] } ]}"
+2024-06-05 18:37:32,323 - root - INFO - Hii Sent Succsessfully....
+2024-06-05 18:37:32,325 - root - INFO - Choose language is shown succesfully !!!!
+2024-06-05 18:37:33,432 - root - INFO - Messages are displayed in telugu.
+2024-06-05 18:38:50,033 - root - INFO - 7GP19YQDAKDH4D7FPNUWI6FK1QKY
+2024-06-05 18:38:51,255 - root - INFO - hii response: "channel=whatsapp&source=917834811114&destination=919042693244&src.name=autooms&message={\"type\": \"list\", \"title\": \"Welcome to Servcrust.\", \"body\": \"Please select your language\",\"msgid\": \"12345languagemsgid\", \"globalButtons\": [ { \"type\": \"text\", \"title\": \"Click to select\" } ],\"items\": [ { \"title\": \"Language\", \"options\": [ { \"type\": \"text\", \"title\": \"English\", \"description\": \"Please Proceed\",\"postbackText\":\"English\"},{ \"type\": \"text\", \"title\": \"\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41\", \"description\": \"\u0c38\u0c02\u0c2d\u0c3e\u0c37\u0c23\u0c28\u0c41 \u0c15\u0c4a\u0c28\u0c38\u0c3e\u0c17\u0c3f\u0c02\u0c1a\u0c02\u0c21\u0c3f.\",\"postbackText\":\"Telugu\"},{ \"type\": \"text\", \"title\": \"\u0939\u093f\u0902\u0926\u0940\", \"description\": \"\u0939\u093f\u0902\u0926\u0940 \u092d\u093e\u0937\u093e \u091a\u092f\u0928 \u0915\u0947 \u0932\u093f\u090f  \",\"postbackText\":\"hindi\"},{ \"type\": \"text\", \"title\": \"\u092e\u0930\u093e\u0920\u0940\", \"description\": \"\u092e\u0930\u093e\u0920\u0940\u0938\u093e\u0920\u0940 \u0915\u0943\u092a\u092f\u093e \u092a\u0941\u0922\u0947 \u091a\u0932\u093e\",\"postbackText\":\"marathi\"} ] } ]}"
+2024-06-05 18:38:51,256 - root - INFO - Hii Sent Succsessfully....
+2024-06-05 18:38:51,257 - root - INFO - Choose language is shown succesfully !!!!
+2024-06-05 18:38:52,028 - root - INFO - Language response is: channel=whatsapp&source=917834811114&destination=919042693244&src.name=autooms&message={"type":"text","text":"Please share the Delivery Location (GPS)", "id":"gps_address"}
+2024-06-05 18:38:52,028 - root - INFO - Selected language: English
+2024-06-05 18:38:52,030 - root - INFO - Messages are displayed in english.

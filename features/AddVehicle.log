@@ -1,0 +1,47 @@
+2024-06-15 16:52:07,495 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device.
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device.
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-15 16:52:09,756 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-15 16:52:09,756 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-18 10:36:18,742 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Unable to find an active device or emulator with OS 14. The following are available: emulator-5554 (11)
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Unable to find an active device or emulator with OS 14. The following are available: emulator-5554 (11)
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-18 10:36:20,899 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-18 10:36:20,899 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-18 10:52:17,565 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Unable to find an active device or emulator with OS 14. The following are available: emulator-5554 (11)
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Unable to find an active device or emulator with OS 14. The following are available: emulator-5554 (11)
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-18 10:52:17,567 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-18 10:52:17,569 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-18 10:52:17,570 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-18 10:52:17,572 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-18 10:52:17,573 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'

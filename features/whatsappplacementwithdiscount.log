@@ -1,0 +1,166 @@
+2024-06-06 14:52:29,491 - root - INFO - Hi message sent
+2024-06-06 14:52:29,491 - root - INFO - Please choose language(English/Telugu)
+2024-06-06 14:52:29,491 - root - INFO - Order from New number
+2024-06-06 14:52:29,493 - root - INFO - English language selected
+2024-06-06 14:52:30,022 - root - INFO - Response after language selection :channel=whatsapp&source=917834811114&destination=919653468315&src.name=autooms&message={"type":"text","text":"Please share the Delivery Location (GPS)", "id":"gps_address"}
+2024-06-06 14:52:30,023 - root - INFO - Got response in the selected language
+2024-06-06 14:52:30,026 - root - INFO - Please share the Delivery Location (GPS)
+2024-06-06 14:52:30,030 - root - INFO - Given location is = latitude:18.782832 and longitude:78.298908
+2024-06-06 14:52:31,961 - root - INFO - channel=whatsapp&source=917834811114&destination=919653468315&src.name=autooms&message={"type": "list", "title": "Aggregate", "body": "Select Aggregate Type","msgid": "producttypeid","globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Aggregate","options": [ {"type": "text", "title": "10MM", "postbackText":"10MM"},{"type": "text", "title": "20MM", "postbackText":"20MM"},{"type": "text", "title": "40MM", "postbackText":"40MM"},{"type": "text", "title": "50MM", "postbackText":"50MM"},{"type": "text", "title": "60MM", "postbackText":"60MM"},{"type": "text", "title": "GSB", "postbackText":"GSB"},{"type": "text", "title": "rock", "postbackText":"rock"},{"type": "text", "title": "sand", "postbackText":"sand"},{"type": "text", "title": "WETMIX", "postbackText":"WETMIX"}] } ]}
+2024-06-06 14:52:31,961 - root - INFO - Aggregate
+2024-06-06 14:52:31,961 - root - INFO - ['10MM', '20MM', '40MM', '50MM', '60MM', 'GSB', 'rock', 'sand', 'WETMIX']
+2024-06-06 14:52:31,961 - root - INFO - Product selected is : 10MM
+2024-06-06 14:52:32,600 - root - INFO - channel=whatsapp&source=917834811114&destination=919653468315&src.name=autooms&message={"type": "list", "title": "Quantity", "body": "Select Quantity (CFT)","msgid": "quantityid", "globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "QUANTITY IN CFT","options": [ {"type": "text", "title": "500"},{"type": "text", "title": "600"},{"type": "text", "title": "900"},{"type": "text", "title": "1000"},{"type": "text", "title": "Previous menu"}] } ]}
+2024-06-06 14:52:32,600 - root - INFO - Select Quantity (CFT) for Quantity
+2024-06-06 14:52:32,600 - root - INFO - ['500', '600', '900', '1000', 'Previous menu']
+2024-06-06 14:52:32,600 - root - INFO - Quantity selected is : 500
+2024-06-06 14:52:34,955 - root - INFO - channel=whatsapp&source=917834811114&destination=919653468315&src.name=autooms&message={"type": "list", "title": "Aggregate", "body": "Select Aggregate Type","msgid": "producttypeid","globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Aggregate","options": [ {"type": "text", "title": "10MM", "postbackText":"10MM"},{"type": "text", "title": "20MM", "postbackText":"20MM"},{"type": "text", "title": "40MM", "postbackText":"40MM"},{"type": "text", "title": "50MM", "postbackText":"50MM"},{"type": "text", "title": "60MM", "postbackText":"60MM"},{"type": "text", "title": "GSB", "postbackText":"GSB"},{"type": "text", "title": "rock", "postbackText":"rock"},{"type": "text", "title": "sand", "postbackText":"sand"},{"type": "text", "title": "WETMIX", "postbackText":"WETMIX"}] } ]}
+2024-06-06 14:52:34,955 - root - INFO - Aggregate
+2024-06-06 14:52:34,970 - root - INFO - Payment methods : ['UPI', 'Others', 'Pay On Delivery']
+2024-06-06 14:52:35,574 - root - INFO - Your payment option is pay on delivery
+2024-06-06 14:52:35,574 - root - INFO - channel=whatsapp&source=917834811114&destination=919653468315&src.name=autooms&message={"type":"text","text":"Your order is placed successfully! Use Order ID: *TS18_1858-2425-370* for future reference. Thank you for choosing ServCrust ","id":"endingChat","title":"endingChat"}
+2024-06-06 14:52:35,574 - root - INFO - Order Number: TS18_1858-2425-370
+2024-06-06 14:52:35,574 - root - INFO - Your order is placed successfully! Use Order ID: *TS18_1858-2425-370* for future reference. Thank you for choosing ServCrust 
+2024-06-06 14:54:49,971 - root - INFO - Hi message sent
+2024-06-06 14:54:50,084 - root - INFO - Please choose language(English/Telugu)
+2024-06-06 14:54:50,084 - root - INFO - Order from New number
+2024-06-06 14:54:50,085 - root - INFO - English language selected
+2024-06-06 14:54:50,747 - root - INFO - Response after language selection :channel=whatsapp&source=917834811114&destination=919142807971&src.name=autooms&message={"type":"text","text":"Please share the Delivery Location (GPS)", "id":"gps_address"}
+2024-06-06 14:54:50,747 - root - INFO - Got response in the selected language
+2024-06-06 14:54:50,747 - root - INFO - Please share the Delivery Location (GPS)
+2024-06-06 14:54:50,747 - root - INFO - Given location is = latitude:18.782832 and longitude:78.298908
+2024-06-06 14:54:51,355 - root - INFO - ['English', 'Telugu', 'hindi', 'marathi']
+2024-06-06 14:54:51,355 - root - INFO - Product selected is : English
+2024-06-06 14:54:51,932 - root - INFO - channel=whatsapp&source=917834811114&destination=919142807971&src.name=autooms&message={"type":"text","text":"Please give *valid GPS* you have only *2 attempts* more","id":"invalid_gps" }
+2024-06-06 14:54:51,932 - root - ERROR - Error occurred at show qty in CFT: 
+2024-06-06 14:54:51,934 - root - ERROR - Error occurred at select qty: 'items'
+2024-06-06 14:55:43,761 - root - INFO - Hi message sent
+2024-06-06 14:55:43,776 - root - INFO - Please choose language(English/Telugu)
+2024-06-06 14:55:43,776 - root - INFO - Order from New number
+2024-06-06 14:55:43,776 - root - INFO - English language selected
+2024-06-06 14:55:44,423 - root - INFO - Got response in the selected language
+2024-06-06 14:55:44,425 - root - INFO - Given location is = latitude:18.782832 and longitude:78.298908
+2024-06-06 14:55:45,150 - root - INFO - channel=whatsapp&source=917834811114&destination=919816196717&src.name=autooms&message={"type": "list", "title": "Order Type", "body": "Select Order Type","msgid": "ordertypeId", "globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Order Type", "options": [ { "type": "text", "title": "Cancel Existing Order", "postbackText":"Cancel"},{ "type": "text", "title": "Place a New Order", "postbackText":"New"} ] } ]}
+2024-06-06 14:55:45,152 - root - INFO - ['Cancel', 'New']
+2024-06-06 14:55:45,152 - root - INFO - Product selected is : Cancel
+2024-06-06 14:55:45,744 - root - INFO - channel=whatsapp&source=917834811114&destination=919816196717&src.name=autooms&message={"type": "list", "title": "Order Type", "body": "Select Order Type","msgid": "ordertypeId", "globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Order Type", "options": [ { "type": "text", "title": "Cancel Existing Order", "postbackText":"Cancel"},{ "type": "text", "title": "Place a New Order", "postbackText":"New"} ] } ]}
+2024-06-06 14:55:45,744 - root - ERROR - Error occurred at show qty in CFT: 
+2024-06-06 14:55:45,747 - root - INFO - ['Cancel Existing Order', 'Place a New Order']
+2024-06-06 14:55:45,747 - root - INFO - Quantity selected is : Cancel Existing Order
+2024-06-06 14:55:46,332 - root - INFO - Selected quantity or product is not deliverable : channel=whatsapp&source=917834811114&destination=919816196717&src.name=autooms&message={"type":"text","text":" Sorry! Your Order request cannot be processed due to *invalid* inputs. Please try to place your order again!!. ", "id":"invalidinputs" }
+2024-06-06 14:55:46,332 - root - ERROR - Error occurred at select qty: 
+2024-06-06 15:22:40,247 - root - INFO - Hi message sent
+2024-06-06 15:22:40,254 - root - INFO - Please choose language(English/Telugu)
+2024-06-06 15:22:40,255 - root - INFO - Order from New number
+2024-06-06 15:22:40,255 - root - INFO - English language selected
+2024-06-06 15:22:41,249 - root - INFO - Response after language selection :channel=whatsapp&source=917834811114&destination=919463114092&src.name=autooms&message={"type":"text","text":"Please share the Delivery Location (GPS)", "id":"gps_address"}
+2024-06-06 15:22:41,250 - root - INFO - Got response in the selected language
+2024-06-06 15:22:41,254 - root - INFO - Please share the Delivery Location (GPS)
+2024-06-06 15:22:41,256 - root - INFO - Given location is = latitude:18.782832 and longitude:78.298908
+2024-06-06 15:22:43,693 - root - INFO - channel=whatsapp&source=917834811114&destination=919463114092&src.name=autooms&message={"type": "list", "title": "Aggregate", "body": "Select Aggregate Type","msgid": "producttypeid","globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Aggregate","options": [ {"type": "text", "title": "10MM", "postbackText":"10MM"},{"type": "text", "title": "20MM", "postbackText":"20MM"},{"type": "text", "title": "40MM", "postbackText":"40MM"},{"type": "text", "title": "50MM", "postbackText":"50MM"},{"type": "text", "title": "60MM", "postbackText":"60MM"},{"type": "text", "title": "GSB", "postbackText":"GSB"},{"type": "text", "title": "rock", "postbackText":"rock"},{"type": "text", "title": "sand", "postbackText":"sand"},{"type": "text", "title": "WETMIX", "postbackText":"WETMIX"}] } ]}
+2024-06-06 15:22:43,694 - root - INFO - Aggregate
+2024-06-06 15:22:43,697 - root - INFO - ['10MM', '20MM', '40MM', '50MM', '60MM', 'GSB', 'rock', 'sand', 'WETMIX']
+2024-06-06 15:22:43,699 - root - INFO - Product selected is : GSB
+2024-06-06 15:22:45,131 - root - INFO - channel=whatsapp&source=917834811114&destination=919463114092&src.name=autooms&message={"type": "list", "title": "Quantity", "body": "Select Quantity (CFT)","msgid": "quantityid", "globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "QUANTITY IN CFT","options": [ {"type": "text", "title": "100"},{"type": "text", "title": "102"},{"type": "text", "title": "240"},{"type": "text", "title": "250"},{"type": "text", "title": "275"},{"type": "text", "title": "300"},{"type": "text", "title": "400"},{"type": "text", "title": "450"},{"type": "text", "title": "Previous menu"}] } ]}
+2024-06-06 15:22:45,131 - root - INFO - Select Quantity (CFT) for Quantity
+2024-06-06 15:22:45,131 - root - INFO - ['100', '102', '240', '250', '275', '300', '400', '450', 'Previous menu']
+2024-06-06 15:22:45,131 - root - INFO - Quantity selected is : 275
+2024-06-06 15:22:51,280 - root - INFO - channel=whatsapp&source=917834811114&destination=919463114092&src.name=autooms&message={"type": "list", "title": "Aggregate", "body": "Select Aggregate Type","msgid": "producttypeid","globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Aggregate","options": [ {"type": "text", "title": "10MM", "postbackText":"10MM"},{"type": "text", "title": "20MM", "postbackText":"20MM"},{"type": "text", "title": "40MM", "postbackText":"40MM"},{"type": "text", "title": "50MM", "postbackText":"50MM"},{"type": "text", "title": "60MM", "postbackText":"60MM"},{"type": "text", "title": "GSB", "postbackText":"GSB"},{"type": "text", "title": "rock", "postbackText":"rock"},{"type": "text", "title": "sand", "postbackText":"sand"},{"type": "text", "title": "WETMIX", "postbackText":"WETMIX"}] } ]}
+2024-06-06 15:22:51,280 - root - INFO - Aggregate
+2024-06-06 15:22:51,280 - root - INFO - Payment methods : ['UPI', 'Others', 'Pay On Delivery']
+2024-06-06 15:22:51,864 - root - INFO - Your payment option is pay on delivery
+2024-06-06 15:22:51,880 - root - INFO - channel=whatsapp&source=917834811114&destination=919463114092&src.name=autooms&message={"type":"text","text":"Your order is placed successfully! Use Order ID: *TS18_13-2425-210* for future reference. Thank you for choosing ServCrust ","id":"endingChat","title":"endingChat"}
+2024-06-06 15:22:51,882 - root - INFO - Order Number: TS18_13-2425-210
+2024-06-06 15:22:51,882 - root - INFO - Your order is placed successfully! Use Order ID: *TS18_13-2425-210* for future reference. Thank you for choosing ServCrust 
+2024-06-06 15:23:24,871 - root - INFO - Hi message sent
+2024-06-06 15:23:24,871 - root - INFO - Please choose language(English/Telugu)
+2024-06-06 15:23:24,871 - root - INFO - Order from New number
+2024-06-06 15:23:24,871 - root - INFO - English language selected
+2024-06-06 15:23:25,408 - root - INFO - Response after language selection :channel=whatsapp&source=917834811114&destination=919147473457&src.name=autooms&message={"type":"text","text":"Please share the Delivery Location (GPS)", "id":"gps_address"}
+2024-06-06 15:23:25,408 - root - INFO - Got response in the selected language
+2024-06-06 15:23:25,408 - root - INFO - Please share the Delivery Location (GPS)
+2024-06-06 15:23:25,408 - root - INFO - Given location is = latitude:18.782832 and longitude:78.298908
+2024-06-06 15:23:27,085 - root - INFO - channel=whatsapp&source=917834811114&destination=919147473457&src.name=autooms&message={"type": "list", "title": "Aggregate", "body": "Select Aggregate Type","msgid": "producttypeid","globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Aggregate","options": [ {"type": "text", "title": "10MM", "postbackText":"10MM"},{"type": "text", "title": "20MM", "postbackText":"20MM"},{"type": "text", "title": "40MM", "postbackText":"40MM"},{"type": "text", "title": "50MM", "postbackText":"50MM"},{"type": "text", "title": "60MM", "postbackText":"60MM"},{"type": "text", "title": "GSB", "postbackText":"GSB"},{"type": "text", "title": "rock", "postbackText":"rock"},{"type": "text", "title": "sand", "postbackText":"sand"},{"type": "text", "title": "WETMIX", "postbackText":"WETMIX"}] } ]}
+2024-06-06 15:23:27,085 - root - INFO - Aggregate
+2024-06-06 15:23:27,085 - root - INFO - ['10MM', '20MM', '40MM', '50MM', '60MM', 'GSB', 'rock', 'sand', 'WETMIX']
+2024-06-06 15:23:27,085 - root - INFO - Product selected is : WETMIX
+2024-06-06 15:23:27,720 - root - INFO - channel=whatsapp&source=917834811114&destination=919147473457&src.name=autooms&message={"type": "list", "title": "Quantity", "body": "Select Quantity (CFT)","msgid": "quantityid", "globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "QUANTITY IN CFT","options": [ {"type": "text", "title": "100"},{"type": "text", "title": "102"},{"type": "text", "title": "240"},{"type": "text", "title": "250"},{"type": "text", "title": "275"},{"type": "text", "title": "300"},{"type": "text", "title": "400"},{"type": "text", "title": "450"},{"type": "text", "title": "Previous menu"}] } ]}
+2024-06-06 15:23:27,720 - root - INFO - Select Quantity (CFT) for Quantity
+2024-06-06 15:23:27,720 - root - INFO - ['100', '102', '240', '250', '275', '300', '400', '450', 'Previous menu']
+2024-06-06 15:23:27,720 - root - INFO - Quantity selected is : 300
+2024-06-06 15:23:30,290 - root - INFO - channel=whatsapp&source=917834811114&destination=919147473457&src.name=autooms&message={"type": "list", "title": "Aggregate", "body": "Select Aggregate Type","msgid": "producttypeid","globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Aggregate","options": [ {"type": "text", "title": "10MM", "postbackText":"10MM"},{"type": "text", "title": "20MM", "postbackText":"20MM"},{"type": "text", "title": "40MM", "postbackText":"40MM"},{"type": "text", "title": "50MM", "postbackText":"50MM"},{"type": "text", "title": "60MM", "postbackText":"60MM"},{"type": "text", "title": "GSB", "postbackText":"GSB"},{"type": "text", "title": "rock", "postbackText":"rock"},{"type": "text", "title": "sand", "postbackText":"sand"},{"type": "text", "title": "WETMIX", "postbackText":"WETMIX"}] } ]}
+2024-06-06 15:23:30,291 - root - INFO - Aggregate
+2024-06-06 15:23:30,297 - root - INFO - Payment methods : ['UPI', 'Others', 'Pay On Delivery']
+2024-06-06 15:23:30,840 - root - INFO - Your payment option is pay on delivery
+2024-06-06 15:23:30,840 - root - INFO - channel=whatsapp&source=917834811114&destination=919147473457&src.name=autooms&message={"type":"text","text":"Your order is placed successfully! Use Order ID: *TS18_13-2425-211* for future reference. Thank you for choosing ServCrust ","id":"endingChat","title":"endingChat"}
+2024-06-06 15:23:30,840 - root - INFO - Order Number: TS18_13-2425-211
+2024-06-06 15:23:30,840 - root - INFO - Your order is placed successfully! Use Order ID: *TS18_13-2425-211* for future reference. Thank you for choosing ServCrust 
+2024-06-06 15:24:22,810 - root - INFO - Hi message sent
+2024-06-06 15:24:22,812 - root - INFO - Please choose language(English/Telugu)
+2024-06-06 15:24:22,812 - root - INFO - Order from New number
+2024-06-06 15:24:22,813 - root - INFO - English language selected
+2024-06-06 15:24:23,477 - root - INFO - Response after language selection :channel=whatsapp&source=917834811114&destination=919392695205&src.name=autooms&message={"type":"text","text":"Please share the Delivery Location (GPS)", "id":"gps_address"}
+2024-06-06 15:24:23,477 - root - INFO - Got response in the selected language
+2024-06-06 15:24:23,477 - root - INFO - Please share the Delivery Location (GPS)
+2024-06-06 15:24:23,477 - root - INFO - Given location is = latitude:18.782832 and longitude:78.298908
+2024-06-06 15:24:25,741 - root - INFO - channel=whatsapp&source=917834811114&destination=919392695205&src.name=autooms&message={"type": "list", "title": "Aggregate", "body": "Select Aggregate Type","msgid": "producttypeid","globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Aggregate","options": [ {"type": "text", "title": "10MM", "postbackText":"10MM"},{"type": "text", "title": "20MM", "postbackText":"20MM"},{"type": "text", "title": "40MM", "postbackText":"40MM"},{"type": "text", "title": "50MM", "postbackText":"50MM"},{"type": "text", "title": "60MM", "postbackText":"60MM"},{"type": "text", "title": "GSB", "postbackText":"GSB"},{"type": "text", "title": "rock", "postbackText":"rock"},{"type": "text", "title": "sand", "postbackText":"sand"},{"type": "text", "title": "WETMIX", "postbackText":"WETMIX"}] } ]}
+2024-06-06 15:24:25,741 - root - INFO - Aggregate
+2024-06-06 15:24:25,749 - root - INFO - ['10MM', '20MM', '40MM', '50MM', '60MM', 'GSB', 'rock', 'sand', 'WETMIX']
+2024-06-06 15:24:25,749 - root - INFO - Product selected is : rock
+2024-06-06 15:24:26,737 - root - INFO - channel=whatsapp&source=917834811114&destination=919392695205&src.name=autooms&message={"type": "list", "title": "Quantity", "body": "Select Quantity (CFT)","msgid": "quantityid", "globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "QUANTITY IN CFT","options": [ {"type": "text", "title": "100"},{"type": "text", "title": "102"},{"type": "text", "title": "240"},{"type": "text", "title": "250"},{"type": "text", "title": "275"},{"type": "text", "title": "300"},{"type": "text", "title": "400"},{"type": "text", "title": "450"},{"type": "text", "title": "Previous menu"}] } ]}
+2024-06-06 15:24:26,737 - root - INFO - Select Quantity (CFT) for Quantity
+2024-06-06 15:24:26,738 - root - INFO - ['100', '102', '240', '250', '275', '300', '400', '450', 'Previous menu']
+2024-06-06 15:24:26,738 - root - INFO - Quantity selected is : 300
+2024-06-06 15:24:29,613 - root - INFO - channel=whatsapp&source=917834811114&destination=919392695205&src.name=autooms&message={"type": "list", "title": "Aggregate", "body": "Select Aggregate Type","msgid": "producttypeid","globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Aggregate","options": [ {"type": "text", "title": "10MM", "postbackText":"10MM"},{"type": "text", "title": "20MM", "postbackText":"20MM"},{"type": "text", "title": "40MM", "postbackText":"40MM"},{"type": "text", "title": "50MM", "postbackText":"50MM"},{"type": "text", "title": "60MM", "postbackText":"60MM"},{"type": "text", "title": "GSB", "postbackText":"GSB"},{"type": "text", "title": "rock", "postbackText":"rock"},{"type": "text", "title": "sand", "postbackText":"sand"},{"type": "text", "title": "WETMIX", "postbackText":"WETMIX"}] } ]}
+2024-06-06 15:24:29,613 - root - INFO - Aggregate
+2024-06-06 15:24:29,629 - root - INFO - Payment methods : ['UPI', 'Others', 'Pay On Delivery']
+2024-06-06 15:24:30,319 - root - INFO - Your payment option is pay on delivery
+2024-06-06 15:24:30,321 - root - INFO - channel=whatsapp&source=917834811114&destination=919392695205&src.name=autooms&message={"type":"text","text":"Your order is placed successfully! Use Order ID: *TS18_13-2425-212* for future reference. Thank you for choosing ServCrust ","id":"endingChat","title":"endingChat"}
+2024-06-06 15:24:30,321 - root - INFO - Order Number: TS18_13-2425-212
+2024-06-06 15:24:30,321 - root - INFO - Your order is placed successfully! Use Order ID: *TS18_13-2425-212* for future reference. Thank you for choosing ServCrust 
+2024-06-06 15:25:07,467 - root - INFO - Hi message sent
+2024-06-06 15:25:07,467 - root - INFO - Please choose language(English/Telugu)
+2024-06-06 15:25:07,467 - root - INFO - Order from New number
+2024-06-06 15:25:07,467 - root - INFO - English language selected
+2024-06-06 15:25:08,045 - root - INFO - Response after language selection :channel=whatsapp&source=917834811114&destination=919128645551&src.name=autooms&message={"type":"text","text":"Please share the Delivery Location (GPS)", "id":"gps_address"}
+2024-06-06 15:25:08,047 - root - INFO - Got response in the selected language
+2024-06-06 15:25:08,049 - root - INFO - Please share the Delivery Location (GPS)
+2024-06-06 15:25:08,052 - root - INFO - Given location is = latitude:18.782832 and longitude:78.298908
+2024-06-06 15:25:10,225 - root - INFO - channel=whatsapp&source=917834811114&destination=919128645551&src.name=autooms&message={"type": "list", "title": "Aggregate", "body": "Select Aggregate Type","msgid": "producttypeid","globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Aggregate","options": [ {"type": "text", "title": "10MM", "postbackText":"10MM"},{"type": "text", "title": "20MM", "postbackText":"20MM"},{"type": "text", "title": "40MM", "postbackText":"40MM"},{"type": "text", "title": "50MM", "postbackText":"50MM"},{"type": "text", "title": "60MM", "postbackText":"60MM"},{"type": "text", "title": "GSB", "postbackText":"GSB"},{"type": "text", "title": "rock", "postbackText":"rock"},{"type": "text", "title": "sand", "postbackText":"sand"},{"type": "text", "title": "WETMIX", "postbackText":"WETMIX"}] } ]}
+2024-06-06 15:25:10,225 - root - INFO - Aggregate
+2024-06-06 15:25:10,225 - root - INFO - ['10MM', '20MM', '40MM', '50MM', '60MM', 'GSB', 'rock', 'sand', 'WETMIX']
+2024-06-06 15:25:10,225 - root - INFO - Product selected is : 40MM
+2024-06-06 15:25:10,893 - root - INFO - channel=whatsapp&source=917834811114&destination=919128645551&src.name=autooms&message={"type": "list", "title": "Quantity", "body": "Select Quantity (CFT)","msgid": "quantityid", "globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "QUANTITY IN CFT","options": [ {"type": "text", "title": "100"},{"type": "text", "title": "102"},{"type": "text", "title": "240"},{"type": "text", "title": "250"},{"type": "text", "title": "275"},{"type": "text", "title": "300"},{"type": "text", "title": "400"},{"type": "text", "title": "450"},{"type": "text", "title": "Previous menu"}] } ]}
+2024-06-06 15:25:10,893 - root - INFO - Select Quantity (CFT) for Quantity
+2024-06-06 15:25:10,894 - root - INFO - ['100', '102', '240', '250', '275', '300', '400', '450', 'Previous menu']
+2024-06-06 15:25:10,894 - root - INFO - Quantity selected is : 300
+2024-06-06 15:25:13,546 - root - INFO - channel=whatsapp&source=917834811114&destination=919128645551&src.name=autooms&message={"type": "list", "title": "Aggregate", "body": "Select Aggregate Type","msgid": "producttypeid","globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Aggregate","options": [ {"type": "text", "title": "10MM", "postbackText":"10MM"},{"type": "text", "title": "20MM", "postbackText":"20MM"},{"type": "text", "title": "40MM", "postbackText":"40MM"},{"type": "text", "title": "50MM", "postbackText":"50MM"},{"type": "text", "title": "60MM", "postbackText":"60MM"},{"type": "text", "title": "GSB", "postbackText":"GSB"},{"type": "text", "title": "rock", "postbackText":"rock"},{"type": "text", "title": "sand", "postbackText":"sand"},{"type": "text", "title": "WETMIX", "postbackText":"WETMIX"}] } ]}
+2024-06-06 15:25:13,546 - root - INFO - Aggregate
+2024-06-06 15:25:13,556 - root - INFO - Payment methods : ['UPI', 'Others', 'Pay On Delivery']
+2024-06-06 15:25:14,233 - root - INFO - Your payment option is pay on delivery
+2024-06-06 15:25:14,233 - root - INFO - channel=whatsapp&source=917834811114&destination=919128645551&src.name=autooms&message={"type":"text","text":"Your order is placed successfully! Use Order ID: *TS18_13-2425-213* for future reference. Thank you for choosing ServCrust ","id":"endingChat","title":"endingChat"}
+2024-06-06 15:25:14,233 - root - INFO - Order Number: TS18_13-2425-213
+2024-06-06 15:25:14,233 - root - INFO - Your order is placed successfully! Use Order ID: *TS18_13-2425-213* for future reference. Thank you for choosing ServCrust 
+2024-06-08 23:08:44,787 - root - INFO - Hi message sent
+2024-06-08 23:08:44,788 - root - INFO - Please choose language(English/Telugu)
+2024-06-08 23:08:44,788 - root - INFO - Order from New number
+2024-06-08 23:08:44,788 - root - INFO - English language selected
+2024-06-08 23:08:45,299 - root - INFO - Response after language selection :channel=whatsapp&source=917834811114&destination=919717721144&src.name=autooms&message={"type":"text","text":"Please share the Delivery Location (GPS)", "id":"gps_address"}
+2024-06-08 23:08:45,301 - root - INFO - Got response in the selected language
+2024-06-08 23:08:45,304 - root - INFO - Please share the Delivery Location (GPS)
+2024-06-08 23:08:45,305 - root - INFO - Given location is = latitude:18.782832 and longitude:78.298908
+2024-06-08 23:08:46,978 - root - INFO - channel=whatsapp&source=917834811114&destination=919717721144&src.name=autooms&message={"type": "list", "title": "Aggregate", "body": "Select Aggregate Type","msgid": "producttypeid","globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Aggregate","options": [ {"type": "text", "title": "10MM", "postbackText":"10MM"},{"type": "text", "title": "20MM", "postbackText":"20MM"},{"type": "text", "title": "40MM", "postbackText":"40MM"},{"type": "text", "title": "50MM", "postbackText":"50MM"},{"type": "text", "title": "60MM", "postbackText":"60MM"},{"type": "text", "title": "GSB", "postbackText":"GSB"},{"type": "text", "title": "rock", "postbackText":"rock"},{"type": "text", "title": "sand", "postbackText":"sand"},{"type": "text", "title": "WETMIX", "postbackText":"WETMIX"}] } ]}
+2024-06-08 23:08:46,978 - root - INFO - Aggregate
+2024-06-08 23:08:46,979 - root - INFO - ['10MM', '20MM', '40MM', '50MM', '60MM', 'GSB', 'rock', 'sand', 'WETMIX']
+2024-06-08 23:08:46,979 - root - INFO - Product selected is : 40MM
+2024-06-08 23:08:48,235 - root - INFO - channel=whatsapp&source=917834811114&destination=919717721144&src.name=autooms&message={"type": "list", "title": "Quantity", "body": "Select Quantity (CFT)","msgid": "quantityid", "globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "QUANTITY IN CFT","options": [ {"type": "text", "title": "100"},{"type": "text", "title": "102"},{"type": "text", "title": "240"},{"type": "text", "title": "250"},{"type": "text", "title": "275"},{"type": "text", "title": "300"},{"type": "text", "title": "400"},{"type": "text", "title": "450"},{"type": "text", "title": "Previous menu"}] } ]}
+2024-06-08 23:08:48,235 - root - INFO - Select Quantity (CFT) for Quantity
+2024-06-08 23:08:48,236 - root - INFO - ['100', '102', '240', '250', '275', '300', '400', '450', 'Previous menu']
+2024-06-08 23:08:48,236 - root - INFO - Quantity selected is : 450
+2024-06-08 23:08:50,904 - root - INFO - channel=whatsapp&source=917834811114&destination=919717721144&src.name=autooms&message={"type": "list", "title": "Aggregate", "body": "Select Aggregate Type","msgid": "producttypeid","globalButtons": [ { "type": "text", "title": "Click to select" } ],"items": [ { "title": "Aggregate","options": [ {"type": "text", "title": "10MM", "postbackText":"10MM"},{"type": "text", "title": "20MM", "postbackText":"20MM"},{"type": "text", "title": "40MM", "postbackText":"40MM"},{"type": "text", "title": "50MM", "postbackText":"50MM"},{"type": "text", "title": "60MM", "postbackText":"60MM"},{"type": "text", "title": "GSB", "postbackText":"GSB"},{"type": "text", "title": "rock", "postbackText":"rock"},{"type": "text", "title": "sand", "postbackText":"sand"},{"type": "text", "title": "WETMIX", "postbackText":"WETMIX"}] } ]}
+2024-06-08 23:08:50,904 - root - INFO - Aggregate
+2024-06-08 23:08:50,909 - root - INFO - Payment methods : ['UPI', 'Others', 'Pay On Delivery']
+2024-06-08 23:08:51,575 - root - INFO - Your payment option is pay on delivery
+2024-06-08 23:08:51,576 - root - INFO - channel=whatsapp&source=917834811114&destination=919717721144&src.name=autooms&message={"type":"text","text":"Your order is placed successfully! Use Order ID: *TS18_13-2425-230* for future reference. Thank you for choosing ServCrust ","id":"endingChat","title":"endingChat"}
+2024-06-08 23:08:51,576 - root - INFO - Order Number: TS18_13-2425-230
+2024-06-08 23:08:51,576 - root - INFO - Your order is placed successfully! Use Order ID: *TS18_13-2425-230* for future reference. Thank you for choosing ServCrust 

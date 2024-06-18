@@ -1,0 +1,132 @@
+2024-06-10 14:12:58,213 - root - INFO - Application opened successfully!
+2024-06-10 14:13:00,804 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 14:13:00,804 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 14:13:05,123 - root - INFO - clicked on user input field
+2024-06-10 14:13:05,123 - root - INFO - clicked on user input field
+2024-06-10 14:13:05,123 - root - INFO - Username entered: <appium.webdriver.webelement.WebElement (session="3fa02ce5-bf7a-48b1-8962-f3f8155e3b6a", element="df349139-1abf-48ac-af0d-25467699e9e4")>
+2024-06-10 14:13:05,123 - root - INFO - Username entered: <appium.webdriver.webelement.WebElement (session="3fa02ce5-bf7a-48b1-8962-f3f8155e3b6a", element="df349139-1abf-48ac-af0d-25467699e9e4")>
+2024-06-10 14:13:05,768 - root - INFO - Entered username: venkatesh
+2024-06-10 14:13:05,768 - root - INFO - Entered username: venkatesh
+2024-06-10 14:13:07,510 - root - INFO - clicked on password field
+2024-06-10 14:13:07,510 - root - INFO - clicked on password field
+2024-06-10 14:13:07,510 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="3fa02ce5-bf7a-48b1-8962-f3f8155e3b6a", element="64c04e58-309f-43c7-8d6b-c55ac8547c39")>
+2024-06-10 14:13:07,510 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="3fa02ce5-bf7a-48b1-8962-f3f8155e3b6a", element="64c04e58-309f-43c7-8d6b-c55ac8547c39")>
+2024-06-10 14:13:07,724 - root - INFO - Entered password: Test@12345
+2024-06-10 14:13:07,724 - root - INFO - Entered password: Test@12345
+2024-06-10 14:13:09,093 - root - INFO - Clicked on Sign-in button
+2024-06-10 14:13:09,093 - root - INFO - Clicked on Sign-in button
+2024-06-10 14:13:21,190 - root - INFO - Welcome to: ORDERS
+2024-06-10 14:13:21,190 - root - INFO - Welcome to: ORDERS
+2024-06-10 14:13:23,193 - root - ERROR - Error response in Logout page:'Context' object has no attribute 'find_element'
+2024-06-10 14:13:23,193 - root - ERROR - Error response in Logout page:'Context' object has no attribute 'find_element'
+2024-06-10 14:13:23,194 - root - ERROR - Error response in main pagetype object 'Locators' has no attribute 'welcome_page'
+2024-06-10 14:13:23,194 - root - ERROR - Error response in main pagetype object 'Locators' has no attribute 'welcome_page'
+2024-06-10 14:14:40,910 - root - INFO - Application opened successfully!
+2024-06-10 14:14:42,970 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 14:14:42,970 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 14:14:46,004 - root - INFO - clicked on user input field
+2024-06-10 14:14:46,004 - root - INFO - clicked on user input field
+2024-06-10 14:14:46,004 - root - INFO - Username entered: <appium.webdriver.webelement.WebElement (session="f33dfda7-73f4-45c4-a958-43b1b32b3a8d", element="7e1fe22f-3cf6-4cff-8745-24f87e530724")>
+2024-06-10 14:14:46,004 - root - INFO - Username entered: <appium.webdriver.webelement.WebElement (session="f33dfda7-73f4-45c4-a958-43b1b32b3a8d", element="7e1fe22f-3cf6-4cff-8745-24f87e530724")>
+2024-06-10 14:14:46,629 - root - INFO - Entered username: venkatesh
+2024-06-10 14:14:46,629 - root - INFO - Entered username: venkatesh
+2024-06-10 14:14:49,100 - root - INFO - clicked on password field
+2024-06-10 14:14:49,100 - root - INFO - clicked on password field
+2024-06-10 14:14:49,100 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="f33dfda7-73f4-45c4-a958-43b1b32b3a8d", element="a7f57b62-379c-4f89-a6c3-8dc5b392bfb6")>
+2024-06-10 14:14:49,100 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="f33dfda7-73f4-45c4-a958-43b1b32b3a8d", element="a7f57b62-379c-4f89-a6c3-8dc5b392bfb6")>
+2024-06-10 14:14:49,329 - root - INFO - Entered password: Test@12345
+2024-06-10 14:14:49,329 - root - INFO - Entered password: Test@12345
+2024-06-10 14:14:50,207 - root - INFO - Clicked on Sign-in button
+2024-06-10 14:14:50,207 - root - INFO - Clicked on Sign-in button
+2024-06-10 14:14:59,167 - root - INFO - Welcome to: ORDERS
+2024-06-10 14:14:59,167 - root - INFO - Welcome to: ORDERS
+2024-06-10 14:14:59,648 - root - INFO - Logged out successfully!
+2024-06-10 14:14:59,648 - root - INFO - Logged out successfully!
+2024-06-10 14:14:59,648 - root - ERROR - Error response in main pagetype object 'Locators' has no attribute 'welcome_page'
+2024-06-10 14:14:59,648 - root - ERROR - Error response in main pagetype object 'Locators' has no attribute 'welcome_page'
+2024-06-10 14:16:55,492 - root - INFO - Application opened successfully!
+2024-06-10 14:16:57,551 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 14:16:57,551 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 14:17:00,850 - root - INFO - clicked on user input field
+2024-06-10 14:17:00,850 - root - INFO - clicked on user input field
+2024-06-10 14:17:00,851 - root - INFO - Username entered: <appium.webdriver.webelement.WebElement (session="d26e49ae-ddca-4f71-8093-4a931af4cffb", element="cb24be27-5a6a-422d-b2b0-2e828d10ffe9")>
+2024-06-10 14:17:00,851 - root - INFO - Username entered: <appium.webdriver.webelement.WebElement (session="d26e49ae-ddca-4f71-8093-4a931af4cffb", element="cb24be27-5a6a-422d-b2b0-2e828d10ffe9")>
+2024-06-10 14:17:01,671 - root - INFO - Entered username: venkatesh
+2024-06-10 14:17:01,671 - root - INFO - Entered username: venkatesh
+2024-06-10 14:17:03,608 - root - INFO - clicked on password field
+2024-06-10 14:17:03,608 - root - INFO - clicked on password field
+2024-06-10 14:17:03,609 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="d26e49ae-ddca-4f71-8093-4a931af4cffb", element="95c46a42-fb33-476d-a818-c75ef11a9d5f")>
+2024-06-10 14:17:03,609 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="d26e49ae-ddca-4f71-8093-4a931af4cffb", element="95c46a42-fb33-476d-a818-c75ef11a9d5f")>
+2024-06-10 14:17:04,213 - root - INFO - Entered password: Test@12345
+2024-06-10 14:17:04,213 - root - INFO - Entered password: Test@12345
+2024-06-10 14:17:04,930 - root - INFO - Clicked on Sign-in button
+2024-06-10 14:17:04,930 - root - INFO - Clicked on Sign-in button
+2024-06-10 14:17:14,285 - root - INFO - Welcome to: ORDERS
+2024-06-10 14:17:14,285 - root - INFO - Welcome to: ORDERS
+2024-06-10 14:17:14,729 - root - INFO - Logged out successfully!
+2024-06-10 14:17:14,729 - root - INFO - Logged out successfully!
+2024-06-10 14:17:17,462 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 14:17:17,462 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 14:26:28,850 - root - INFO - Application opened successfully!
+2024-06-10 14:26:30,922 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 14:26:30,922 - root - WARNING - Error: Message: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Manik\Downloads\SC Partner.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-10 14:26:33,386 - root - INFO - clicked on user input field
+2024-06-10 14:26:33,386 - root - INFO - clicked on user input field
+2024-06-10 14:26:33,386 - root - INFO - Username entered: <appium.webdriver.webelement.WebElement (session="67f802d9-5e2a-4ad6-ac52-06b82076a8d1", element="1349c41a-c342-47db-b958-fd961b0ed5f7")>
+2024-06-10 14:26:33,386 - root - INFO - Username entered: <appium.webdriver.webelement.WebElement (session="67f802d9-5e2a-4ad6-ac52-06b82076a8d1", element="1349c41a-c342-47db-b958-fd961b0ed5f7")>
+2024-06-10 14:26:34,050 - root - INFO - Entered username: venkatesh
+2024-06-10 14:26:34,050 - root - INFO - Entered username: venkatesh
+2024-06-10 14:26:36,208 - root - INFO - clicked on password field
+2024-06-10 14:26:36,208 - root - INFO - clicked on password field
+2024-06-10 14:26:36,208 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="67f802d9-5e2a-4ad6-ac52-06b82076a8d1", element="75c042b8-f0af-46b2-829c-466a26650172")>
+2024-06-10 14:26:36,208 - root - INFO - Password entered: <appium.webdriver.webelement.WebElement (session="67f802d9-5e2a-4ad6-ac52-06b82076a8d1", element="75c042b8-f0af-46b2-829c-466a26650172")>
+2024-06-10 14:26:37,403 - root - INFO - Entered password: Test@12345
+2024-06-10 14:26:37,403 - root - INFO - Entered password: Test@12345
+2024-06-10 14:26:38,284 - root - INFO - Clicked on Sign-in button
+2024-06-10 14:26:38,284 - root - INFO - Clicked on Sign-in button
+2024-06-10 14:26:49,134 - root - INFO - Welcome to: ORDERS
+2024-06-10 14:26:49,134 - root - INFO - Welcome to: ORDERS
+2024-06-10 14:26:49,780 - root - INFO - Logged out successfully!
+2024-06-10 14:26:49,780 - root - INFO - Logged out successfully!
+2024-06-10 14:26:52,128 - root - INFO - Clicked on Welcome to Order Management
+2024-06-10 14:26:52,128 - root - INFO - Clicked on Welcome to Order Management
