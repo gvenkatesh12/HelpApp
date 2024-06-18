@@ -45,3 +45,22 @@ UnknownError: An unknown server-side error occurred while processing the command
 2024-06-18 10:52:17,570 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
 2024-06-18 10:52:17,572 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
 2024-06-18 10:52:17,573 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-18 11:15:43,254 - root - WARNING - Error occurred while launching the application: Message: An unknown server-side error occurred while processing the command. Original error: Unable to find an active device or emulator with OS 14. The following are available: emulator-5554 (11)
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Unable to find an active device or emulator with OS 14. The following are available: emulator-5554 (11)
+    at getResponseForW3CError (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Manik\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2024-06-18 11:15:43,257 - root - ERROR - Error while navigating to the main page: 'Context' object has no attribute 'driver'
+2024-06-18 11:15:43,258 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-18 11:15:43,260 - root - ERROR - Error to click entering username and password: 'Context' object has no attribute 'driver'
+2024-06-18 11:15:43,262 - root - ERROR - Error clicking Sign-in button: 'Context' object has no attribute 'driver'
+2024-06-18 11:15:43,264 - root - ERROR - Error navigating to home screen: 'Context' object has no attribute 'driver'
+2024-06-18 11:22:11,248 - root - INFO - Application launched successfully!
+2024-06-18 11:22:13,558 - root - INFO - Clicked on Welcome to Order Management
+2024-06-18 11:22:13,568 - root - ERROR - Error clicking entering username and password: 'Context' object has no attribute 'find_element'
+2024-06-18 11:22:13,950 - root - INFO - Clicked on username input field.
+2024-06-18 11:22:14,674 - root - INFO - Username entered: <username>
+2024-06-18 11:22:15,775 - root - INFO - Clicked on password input field.
+2024-06-18 11:22:16,836 - root - INFO - Password entered: <password>
+2024-06-18 11:22:17,726 - root - INFO - Clicked on Sign-in button
